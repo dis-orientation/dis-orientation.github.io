@@ -1,0 +1,10 @@
+name: "Dis-Orientation"
+description: "All the things you ought to know about universities"
+
+url: "https://dis-orientation.info"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
