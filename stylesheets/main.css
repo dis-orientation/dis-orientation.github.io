@@ -119,3 +119,19 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 #footer p{
 	text-align: center;
 }
+
+/*
+NAVIGATION BAR:
+----------------------------------------------------
+*/
+
+ul.nav-bar{
+	list-style: none;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+li.nav-bar{
+	display:inline;
+}
