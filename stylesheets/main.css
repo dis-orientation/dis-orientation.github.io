@@ -71,7 +71,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	width:100%;
 	color: #B22613;
 	text-decoration: none;
-	border-bottom: 0.188em solid #4B4137;
 }
 
 #header{
@@ -138,16 +137,15 @@ NAVIGATION BAR:
 #header ul li a{
 	display: block;
 	text-decoration: none;
-	color: #ffffff;
 	border-top: 1px solid #ffffff;
 	padding: 5px 15px 5px 15px;
-	background: #2C5463;
+	background: #4B4137;
 	margin-left: 1px;
 	white-space: nowrap;
 }
 
 #header ul li a:hover{
-	background: #617F8A; 
+	background: #4B4137; 
 }
 
 #header li:hover ul{
@@ -161,9 +159,9 @@ NAVIGATION BAR:
 }
 
 #header li:hover a{
-	background: #617F8A; 
+	background: #4B4137; 
 }
 
 #header li:hover li a:hover{
-	background: #95A9B1; 
+	background: #4B4137; 
 }
