@@ -74,14 +74,13 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	font-weight: 900;
 	color: #B22613;
 	text-decoration: none;
-	border: none;
+	border-bottom: 0.188em solid #4B4137;
 }
 
 #header{
 	width: 100%;
 	margin: 0 auto;
 	display: block;
-	border-bottom: 0.188em solid #4B4137;
 }
 
 #content-wrapper{
