@@ -118,24 +118,24 @@ NAVIGATION BAR:
 ----------------------------------------------------
 */
 
-#navbar ul{
+#header ul{
 	font-size: larger;
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-#navbar ul li{
+#header ul li{
 	display: block;
 	position: relative;
 	float: left;
 }
 
-#navbar li ul{
+#header li ul{
 	display: none; 
 }
 
-#navbar ul li a{
+#header ul li a{
 	display: block;
 	text-decoration: none;
 	color: #ffffff;
@@ -146,24 +146,24 @@ NAVIGATION BAR:
 	white-space: nowrap;
 }
 
-#navbar ul li a:hover{
+#header ul li a:hover{
 	background: #617F8A; 
 }
 
-#navbar li:hover ul{
+#header li:hover ul{
 	display: block;
 	position: absolute;
 }
 
-#navbar li:hover li{
+#header li:hover li{
 	float: none;
 	font-size: 11px;
 }
 
-#navbar li:hover a{
+#header li:hover a{
 	background: #617F8A; 
 }
 
-#navbar li:hover li a:hover{
+#header li:hover li a:hover{
 	background: #95A9B1; 
 }
