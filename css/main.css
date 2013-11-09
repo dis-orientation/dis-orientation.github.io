@@ -74,6 +74,16 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	text-decoration: none;
 }
 
+#page-title table td.left{
+	text-align: left;
+	vertical-align:middle;
+}
+
+#page-title table td.right{
+	text-align: right;
+	vertical-align:middle;
+}
+
 #header{
 	width: 100%;
 	margin: 0 auto;
