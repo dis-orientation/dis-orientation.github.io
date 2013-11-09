@@ -99,7 +99,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	width:80%;
 	margin:0 auto;
 	padding: 1em 0.5em 0em 0.5em;
-	border-top: 0.188em solid #4B4137;
 }
 
 #footer{
@@ -109,6 +108,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	font-weight:900;
 	font-stretch: expanded;
 	text-align: center;
+	border-top: 0.188em solid #4B4137;
 }
 
 #footer p{
