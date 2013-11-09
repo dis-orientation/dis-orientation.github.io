@@ -140,7 +140,6 @@ NAVIGATION BAR:
 #header ul li a{
 	display: block;
 	text-decoration: none;
-	border-top: 1px solid #ffffff;
 	padding: 5px 15px 5px 15px;
 	background: #4B4137;
 	margin-left: 1px;
