@@ -9,7 +9,7 @@ layout: default
 
 For example, the fact that [the University of Southern California has been significantly underreporting rape](http://articles.latimes.com/2013/oct/07/local/la-me-college-assaults-20131008) is not an isolated incident. The contribution to and perpetuation of rape culture by unviersity administrations is a pervasive and systemic issue, occuring at universities from the west coast to the east coast.
 
-Another systemic issue related to universities is the disenfranchisement of students&#8212;particularly students of color and students from lower- and working-class backgrounds&#8212;via the debt system. Such disenfranchisement cannot occur in isolation. It is dependent upon the structure of our education system and upon all of the univeristies that participate in this education system.
+Another systemic issue related to universities is the disenfranchisement of students&#8212;particularly students of color and students from lower- and working-class backgrounds&#8212;via the debt system. Such disenfranchisement cannot occur in isolation. It is dependent upon the structure of our education system and upon all of the univeristies that participate in this "education" system.
 
 And these are **not** the only two such issues. By browsing the dis-orienting content on this website, it becomes apparent that there are  many similar issues occurring at many different univeristies. What does this all mean?
 
