@@ -59,7 +59,7 @@ Here, we will go over both the web interface option and the software application
 
 First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically detect the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
 
-<img alt="git-software-os" src="/images/git-software-os.png" style="display:block; margin:0 auto;" />
+<img alt="git-software-os" width="100" src="/images/git-software-os.png" style="display:block; margin:0 auto;" />
 
 ##### On a Mac operating system
 
