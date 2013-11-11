@@ -33,7 +33,7 @@ Below, we will focus on how to get involved if your university isn't already inv
 
 - Step 5: Un-learn and dis-orient!
 
-### <a id="step-1>"Step 1: Getting in touch</a>
+### <a id="step-1">Step 1: Getting in touch</a>
 
 If your university is in the [list of universities](http://dis-orientation.info/universities) that already have content on our website, you should click on the link to visit their part of this website. There, they will have contact information, and you can get in touch with the folks at your university that are already working on dis-orienting information.
 
