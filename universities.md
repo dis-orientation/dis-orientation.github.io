@@ -45,7 +45,7 @@ If you don't see your university listed below but would like to contribute disor
 
 -->
 
-### <a id="alph-item-m" href="#alph-return-m">A</a>
+### <a id="alph-item-m" href="#alph-return-m">M</a>
 
 - [Michigan State University](http://msu.dis-orientation.info)
 
