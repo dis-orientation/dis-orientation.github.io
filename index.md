@@ -16,3 +16,9 @@ And these are **not** the only two such issues. By browsing the dis-orienting co
 Perhaps it is time to rethink our post-secondary education system. Perhaps it is time to put our bodies upon the gears and upon the wheels, upon the levers, upon all the apparatus, and **make the machine stop**:
 
 <iframe width="400" height="329" style="display:block;margin:0 auto;" src="http://www.youtube.com/embed/PhFvZRT7Ds0"></iframe>
+
+<footer>
+<ol class="foot-notes">
+	<li id="fn-item1"><strong>Disclaimer</strong>: We're learning to un-learn just like the rest of you! So, if you see anything that would be beneficial to this movement to change/add/omit, just  give us a holler!<a href="#fn-return1">↩</a></li>
+</ol>
+</footer>
