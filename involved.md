@@ -47,7 +47,7 @@ In terms of setting up your subdomain, most of the initial heavy lifting will be
 
 #### <a id="why-github">Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?</a><a href="#toc">↩</a>
 
-There are a couple of reasons why we chose to host this project on GitHub.
+There are a few reasons why we chose to host this project on GitHub.
 
 1. First and foremost, GitHub provides free hosting. When setting up a website, there are usually two key aspects to doing so: (i) purchasing a domain name (something like `example.com`) and (ii) paying for someone to store the files that generate your website on a server that is connected to the internet. Since GitHub provides free hosting, the only thing we have to do is pay for the domain name, `dis-orientation.info`, reducing the cost to maintain this project.
 
