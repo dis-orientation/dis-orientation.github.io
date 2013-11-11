@@ -15,23 +15,23 @@ Below, we will focus on how to get involved if your university isn't already inv
 
 - <a href="#step-1">Step 1: Getting in touch</a>
 
-- Step 2: Getting your subdomain set up
+- <a href="#step-2">Step 2: Getting your subdomain set up</a>
 
-	- Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?
+	- <a href="#why-github">Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?</a>
 	
-- Step 3: Using GitHub
+- <a href="#step-3">Step 3: Using GitHub</a>
 
-	- GitHub's web interface
+	- <a href="#web-interface">GitHub's web interface</a>
 	
-	- GitHub's software application
+	- <a href="#software">GitHub's software application</a>
 	
-		- On a Mac operating system
+		- <a href="#mac">On a Mac operating system</a>
 		
-		- On Windows
+		- <a href="#windows">On Windows</a>
 		
-- Step 4: Writing dis-orienting content
+- <a href="#step-4">Step 4: Writing dis-orienting content</a>
 
-- Step 5: Un-learn and dis-orient!
+- <a href="#step-5">Step 5: Un-learn and dis-orient!</a>
 
 ### <a id="step-1">Step 1: Getting in touch</a><a href="#toc">↩</a>
 
@@ -39,13 +39,13 @@ If your university is in the [list of universities](http://dis-orientation.info/
 
 If you do not see your university listed, please get in touch with us by [contacting us](http://dis-orientation.info/contact) in order to get space on `dis-orientation.info`. Below, we will walk you through how to set up that space, how to manage it, and how to post content to it.
 
-### Step 2: Getting your subdomain set up
+### <a id="step-2">Step 2: Getting your subdomain set up</a><a href="#toc">↩</a>
 
 `dis-orientation.info` provides each university with its own subdomain in order for them to have space to post their own content. A subdomain indicates the first half of a web address. So, in `xyz.dis-orientation.info`, `xyz` is the subdomain part, and `dis-orientation.info` is the main domain name.
 
 In terms of setting up your subdomain, most of the initial heavy lifting will be down by `dis-orientation.info`. What is important to know is that our website is hosted using a service called GitHub. GitHub is a hosting service combined with a version control system, which is a service that tracks changes to documents.
 
-#### Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?
+#### <a id="why-github">Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?</a><a href="#toc">↩</a>
 
 There are a couple of reasons why we chose to host this project on GitHub.
 
@@ -67,34 +67,34 @@ The great part about this is that we can add as many collaborators to a repo as 
 
 Now that we have your subdomain set up, we will next go over how to work with GitHub. After that, we will go over how to write content, and then we will send you on your merry un-learning and dis-orienting way!
 
-### Step 3: Using GitHub
+### <a id="step-3">Step 3: Using GitHub</a><a href="#toc">↩</a>
 
 Broadly speaking, there are two straightforward ways to use GitHub. One of these ways is directly through their website interface, while the other way uses free software that synchronizes the repo on their website with a "clone" of that repo that is stored directly on your computer. If you use the software version, you will then be able to edit the website directly on your computer without an internet connection. After you finish editing the website, all you will need to do is find an internet connection and synchronize the changes that you made on your computer with version of the repo stored on GitHub. (You can also do things from the command line, but we will not cover that here. If you're interested in this option, try poking around the internet for tutorials, if you don't already know to use Git from the command line.)
 
 Here, we will go over both the web interface option and the software application option.
 
-#### GitHub's web interface
+#### <a id="web-interface">GitHub's web interface</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
-#### GitHub's software application
+#### <a id="software">GitHub's software application</a><a href="#toc">↩</a>
 
 First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically detect the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
 
 <img alt="git-software-os" width="400" src="/images/git-software-os.png" style="display:block; margin:0 auto;" />
 
-##### On a Mac operating system
+##### <a id="mac">On a Mac operating system</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
-##### On Windows
+##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
-### Step 4: Writing dis-orienting content
+### <a id="step-4">Step 4: Writing dis-orienting content</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
-### Step 5: Un-learn and dis-orient!
+### <a id="step-5">Step 5: Un-learn and dis-orient!</a><a href="#toc">↩</a>
 
 - **Details coming soon**
