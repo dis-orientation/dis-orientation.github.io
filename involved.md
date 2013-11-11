@@ -11,7 +11,29 @@ Below, we aim to present a comprehensive guide as to how to get involved with `d
 
 Below, we will focus on how to get involved if your university isn't already involved.
 
-### Step 1: Getting in touch
+### Table of contents
+
+- <a href="#step-1">Step 1: Getting in touch</a>
+
+- Step 2: Getting your subdomain set up
+
+	- Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?
+	
+- Step 3: Using GitHub
+
+	- GitHub's web interface
+	
+	- GitHub's software application
+	
+		- On a Mac operating system
+		
+		- On Windows
+		
+- Step 4: Writing dis-orienting content
+
+- Step 5: Un-learn and dis-orient!
+
+### <a id="step-1>"Step 1: Getting in touch</a>
 
 If your university is in the [list of universities](http://dis-orientation.info/universities) that already have content on our website, you should click on the link to visit their part of this website. There, they will have contact information, and you can get in touch with the folks at your university that are already working on dis-orienting information.
 
