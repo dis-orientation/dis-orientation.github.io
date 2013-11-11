@@ -67,6 +67,12 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	border-bottom: 0.188em solid #4B4137;
 }
 
+#logo{
+	position:absolute;
+	top: 0;
+	right: 0;
+}
+
 #page-title{
 	position: inherit;
 	width:100%;
