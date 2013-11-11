@@ -11,5 +11,58 @@ If you don't see your university listed below but would like to contribute disor
 
 <p style="text-align:center;"> A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z</p>
 
+### A
+
+### B
+
+### C
+
 - [Central Michigan University](http://cmu.dis-orientation.info)
+
+### D
+
+### E
+
+### F
+
+### G
+
+### H
+
+### I
+
+### J
+
+### K
+
+### L
+
+### M
+
 - [Michigan State University](http://msu.dis-orientation.info)
+
+### N
+
+### O
+
+### P
+
+### Q
+
+### R
+
+### S
+
+### T
+
+### U
+
+### V
+
+### W
+
+### X
+
+### Y
+
+### Z
