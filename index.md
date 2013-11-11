@@ -3,6 +3,16 @@ title: Disorientation
 layout: default
 ---
 
-## Coming Soon!
+## Time to un-learn and dis-orient!
 
-<img src="/images/DiplomaFistMarkup.gif" alt="Solidarity Fist Diploma" width="400" height="329" style="display: block;margin-left: auto;margin-right: auto;background-color:#EEE9CA" />
+`dis-orientation.info` is an emerging collaborative effort between individuals at various universities. To learn more about us, read our [about page](http://dis-orientation.info/about). In brief, however, we are a de-centralized group of individuals working on centralizing dis-orienting information about universities. In one sense, `dis-orientation.info` is a consciousness raising project, aimed at facilitating the realization that universities in general are problematic institutions and that action must be taken to rectify this.
+
+For example, the fact that [the University of Southern California has been significantly underreporting rape](http://articles.latimes.com/2013/oct/07/local/la-me-college-assaults-20131008) is not an isolated incident. The contribution to and perpetuation of rape culture by unviersity administrations is a pervasive and systemic issue, occuring at universities from the west coast to the east coast.
+
+Another systemic issue related to universities is the disenfranchisement of students&#8212;particularly students of color and students from lower- and working-class backgrounds&#8212;via the debt system. Such disenfranchisement cannot occur in isolation. It is dependent upon the structure of our education system and upon all of the univeristies that participate in this education system.
+
+And these are **not** the only two such issues. By browsing the dis-orienting content on this website, it becomes apparent that there are  many similar issues occurring at many different univeristies. What does this all mean?
+
+Perhaps it is time to rethink our post-secondary education system. Perhaps it is time to put our bodies upon the gears and upon the wheels, upon the levers, upon all the apparatus, and **make the machine stop**:
+
+<iframe width="400" height="329" style="display:block;margin:0 auto;" src="http://www.youtube.com/embed/PhFvZRT7Ds0"></iframe>
