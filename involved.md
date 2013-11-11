@@ -53,7 +53,7 @@ Here, we will go over both the web interface option and the software application
 
 #### GitHub's web interface
 
-**Details coming soon**
+- **Details coming soon**
 
 #### GitHub's software application
 
@@ -63,16 +63,16 @@ First, you will need to download the GitHub's native software application. It ca
 
 ##### On a Mac operating system
 
-**Details coming soon**
+- **Details coming soon**
 
 ##### On Windows
 
-**Details coming soon**
+- **Details coming soon**
 
 ### Step 4: Writing dis-orienting content
 
-**Details coming soon**
+- **Details coming soon**
 
 ### Step 5: Un-learn and dis-orient!
 
-**Details coming soon**
+- **Details coming soon**
