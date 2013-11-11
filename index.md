@@ -3,7 +3,7 @@ title: Disorientation
 layout: default
 ---
 
-## Time to un-learn and dis-orient!
+## Time to un-learn and dis-orient!<sup><a href="#fn-item1" id="fn-return1">1</a></sup>
 
 `dis-orientation.info` is an emerging collaborative effort between individuals at various universities. To learn more about us, read our [about page](http://dis-orientation.info/about). In brief, however, we are a de-centralized group of individuals working on centralizing dis-orienting information about universities. In one sense, `dis-orientation.info` is a consciousness raising project, aimed at facilitating the realization that universities in general are problematic institutions and that action must be taken to rectify this.
 
