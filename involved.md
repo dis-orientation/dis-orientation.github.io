@@ -95,6 +95,10 @@ If you click on a file (for example, `contact.md`), you will see this screen, wh
 
 <img alt="git-web-edit" width="400" src="/images/git-web-edit.png" style="display:block; margin:0 auto;" />
 
+After you make a change, in order to save that change, you need to "commit" the change. You can do so at the bottom of the screen. You can enter an extensive description of what change you made (and why), if you would like to do so. That information is stored in the history of the file, so that your collaborators know what changes were made and why. You do not necessarily need to enter an extensive description of the change you made, but it is required that enter some description explaining the change.
+
+<img alt="git-web-commit" width="400" src="/images/git-web-commit.png" style="display:block; margin:0 auto;" />
+
 #### <a id="software">GitHub's software application</a><a href="#toc">↩</a>
 
 First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically detect the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
