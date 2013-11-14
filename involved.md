@@ -29,7 +29,7 @@ Below, we will focus on how to get involved if your university isn't already inv
 		
 		- <a href="#windows">On a Windows computer</a>
 		
-	- <a href="github-summary">GitHub: Recap and summary</a>
+	- <a href="#github-summary">GitHub: Recap and summary</a>
 		
 - <a href="#step-4">Step 4: Writing dis-orienting content with Jekyll</a>
 
