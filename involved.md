@@ -25,9 +25,9 @@ Below, we will focus on how to get involved if your university isn't already inv
 	
 	- <a href="#software">GitHub's software application</a>
 	
-		- <a href="#mac">On a Mac operating system</a>
+		- <a href="#mac">On a Mac computer</a>
 		
-		- <a href="#windows">On Windows</a>
+		- <a href="#windows">On a Windows computer</a>
 		
 - <a href="#step-4">Step 4: Writing dis-orienting content</a>
 
@@ -107,7 +107,7 @@ First, you will need to download the GitHub's native software application. It ca
 
 <img alt="git-software-os" width="400" src="/images/git-software-os.png" style="display:block; margin:0 auto;" />
 
-##### <a id="mac">On a Mac operating system</a><a href="#toc">↩</a>
+##### <a id="mac">On a Mac computer</a><a href="#toc">↩</a>
 
 After you have downloaded and installed the software, you will be asked to enter the username and password that you set up for GitHub. Once we have added you to the `dis-orientation` GitHub account, you should see a dashboard screen that looks like this, with `dis-orientation` on the left:
 
@@ -145,7 +145,7 @@ This last step must be done when you have internet connection. So, other than th
 
 Overall, that's the way to work with the GitHub software for Mac. Next, we'll go over the Windows version of the software, before moving on to how to edit your website files.
 
-##### <a id="windows">On Windows</a><a href="#toc">↩</a>
+##### <a id="windows">On a Windows computer</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
