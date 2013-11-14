@@ -141,6 +141,10 @@ Finally, the last step is to sync the changes that you made with the version of 
 
 <img alt="git-mac-sync" width="400" src="/images/git-mac-sync.png" style="display:block; margin:0 auto;" />
 
+This last step must be done when you have internet connection. So, other than this last step, you can edit your website without an internet connection. Then, when you can connect to the internet, you can sync your changes.
+
+Overall, that's the way to work with the GitHub software for Mac. Next, we'll go over the Windows version of the software, before moving on to how to edit your website files.
+
 ##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
 - **Details coming soon**
