@@ -3,6 +3,6 @@ title: About
 layout: default
 ---
 
-## About
+## About the dis-orientation collective
 
 More information coming soon.

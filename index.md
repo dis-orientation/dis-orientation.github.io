@@ -1,5 +1,5 @@
 ---
-title: Disorientation collective
+title: Dis-orientation collective
 layout: default
 ---
 
