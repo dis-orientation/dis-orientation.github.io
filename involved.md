@@ -133,6 +133,10 @@ So, if you want to upload a PDF version of one of your university's disorientati
 
 <img alt="git-mac-pdf" width="400" src="/images/git-mac-pdf.png" style="display:block; margin:0 auto;" />
 
+Before this change will take effect online, however, you have to do things. First, just like with the web interface, you have to enter a description of your change and "commit" it. To do this, go to the dashboard for your repo in the GitHub application and click on the "Changes" tab in the sidebar. On the right side, you will see the changes that were made. In this case, we see the cover of the PDF that was uploaded. Next, enter a description of the change on the left, and click "Commit".
+
+<img alt="git-mac-commit" width="400" src="/images/git-mac-commit.png" style="display:block; margin:0 auto;" />
+
 ##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
 - **Details coming soon**
