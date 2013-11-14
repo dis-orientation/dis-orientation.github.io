@@ -29,6 +29,8 @@ Below, we will focus on how to get involved if your university isn't already inv
 		
 		- <a href="#windows">On a Windows computer</a>
 		
+	- <a href="github-summary">GitHub: Recap and summary</a>
+		
 - <a href="#step-4">Step 4: Writing dis-orienting content with Jekyll</a>
 
 - <a href="#step-5">Step 5: Un-learn and dis-orient!</a>
@@ -146,6 +148,8 @@ This last step must be done when you have internet connection. So, other than th
 Overall, that's the way to work with the GitHub software for Mac. Next, we'll go over the Windows version of the software, before moving on to how to edit your website files.
 
 ##### <a id="windows">On a Windows computer</a><a href="#toc">↩</a>
+
+#### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
