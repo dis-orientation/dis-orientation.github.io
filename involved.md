@@ -99,6 +99,8 @@ After you make a change, in order to save that change, you need to "commit" the 
 
 <img alt="git-web-commit" width="400" src="/images/git-web-commit.png" style="display:block; margin:0 auto;" />
 
+This method of editing the files for your website works well when you have an internet connection and when you are only working with files that have text in them. The web interface on GitHub, however, is not great for uploading pictures, for example. Doing things like this and also being able to work on your part of the website when you are not connected to the internet are the benefits of using the GitHub software application. We will provide an overview of how to use this software client next.
+
 #### <a id="software">GitHub's software application</a><a href="#toc">↩</a>
 
 First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically detect the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
