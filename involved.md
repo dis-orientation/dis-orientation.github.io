@@ -91,6 +91,10 @@ GitHub is set up so that each repository can have different "branches". When we 
 
 As you can see above, you can change to the `gh-pages` branch by clicking on the dropdown arrow for the branches. Now you should see all of the content of your website.
 
+If you click on a file (for example, `contact.md`), you will see this screen, where you can click on "edit" to edit the file. (Here, you can also look at the history of all changes made to this file and delete the file, using the appropriate buttons.)
+
+<img alt="git-web-edit" width="400" src="/images/git-web-edit.png" style="display:block; margin:0 auto;" />
+
 #### <a id="software">GitHub's software application</a><a href="#toc">↩</a>
 
 First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically detect the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
