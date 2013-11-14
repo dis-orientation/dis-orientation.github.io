@@ -123,7 +123,7 @@ After clicking on your repo for your university, you will see a screen where you
 
 <img alt="git-mac-repo" width="400" src="/images/git-mac-repo.png" style="display:block; margin:0 auto;" />
 
-The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch, by clicking on branch in the sidebar and then by clicking on the checkmark next to the `gh-pages` branch.
+The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch, which you can do by clicking on branch in the sidebar and then by clicking on the checkmark next to the `gh-pages` branch.
 
 <img alt="git-mac-branch" width="400" src="/images/git-mac-branch.png" style="display:block; margin:0 auto;" />
 
