@@ -119,7 +119,7 @@ Next, you can click on "My Repositories" to see a list of the repositories that 
 
 <img alt="git-mac-myrepos" width="400" src="/images/git-mac-myrepos.png" style="display:block; margin:0 auto;" />
 
-After clicking on your repo for your university, you will see a screen where you can see the history of all changes made to this repository, a list of any current changes you have made, and the different branches of the repository.
+After clicking on your repo for your university, you will see a screen where you can see the history of all changes made to this repository, a list of any current changes you have made, and the different branches of the repository. If you ever need to get back to the main dashboard in order to clone another repository, you can click on "Repositories" in the top left corner.
 
 <img alt="git-mac-repo" width="400" src="/images/git-mac-repo.png" style="display:block; margin:0 auto;" />
 
