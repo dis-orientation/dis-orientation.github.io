@@ -83,7 +83,7 @@ Clicking on this will allow you to switch to the `dis-orientation` account conte
 
 <img alt="git-web-find-repo" width="400" src="/images/git-web-find-repo.png" style="display:block; margin:0 auto;" />
 
-After you click on this repo, you will be taken to the GitHub page for where the files are stored. (A possibly quicker way to get here is to navigate directly to `https://github.com/dis-orientation/xyz` in your browser.
+After you click on this repo, you will be taken to the GitHub page for where the files are stored. (A way to get here that might be quicker is to navigate directly to `https://github.com/dis-orientation/xyz` in your browser.)
 
 GitHub is set up so that each repository can have different "branches". When we point your subdomain toward GitHub, GitHub returns a special branch of the repository, called `gh-pages`. Therefore, to edit any of the content on the website, you need to switch to the `gh-pages` branch. (Odd as it may seem, the "master" branch will never be relevant for editing your website.)
 
