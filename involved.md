@@ -85,7 +85,21 @@ First, you will need to download the GitHub's native software application. It ca
 
 ##### <a id="mac">On a Mac operating system</a><a href="#toc">↩</a>
 
-- **Details coming soon**
+Once you have told us your GitHub account and we have added you to the `dis-orientation` account, you should see a grey box in the top left of `https://github.com`, like so:
+
+<img alt="git-web-interface" width="400" src="/images/git-web-interface.png" style="display:block; margin:0 auto;" />
+
+Clicking on this will allow you to switch to the `dis-orientation` account context. Clicking on `dis-orientation` will bring you to a page where you can see your repo on the right of the screen. Click on the repo for your university:
+
+<img alt="git-web-find-repo" widht="400" src="/images/git-web-find-repo.png" style="display:block; margin:0 auto;" />
+
+After you click on this repo, you will be taken to the GitHub page for where the files are stored. (A possibly quicker way to get here is to navigate directly to `https://github.com/dis-orientation/xyz` in your browser.
+
+GitHub is set up so that each repository can have different "branches". When we point your subdomain toward GitHub, GitHub returns a special branch of the repository, called `gh-pages`. Therefore, to edit any of the content on the website, you need to switch to the `gh-pages` branch. (Odd as it may seem, the "master" branch will never be relevant for editing your website.)
+
+<img alt="git-web-change-branch" widht="400" src="/images/git-web-change-branch.png" style="display:block; margin:0 auto;" />
+
+As you can see above, you can change to the `gh-pages` branch by clicking on the dropdown arrow for the branches. Now you should see all of the content of your website.
 
 ##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
