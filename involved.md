@@ -109,7 +109,23 @@ First, you will need to download the GitHub's native software application. It ca
 
 ##### <a id="mac">On a Mac operating system</a><a href="#toc">↩</a>
 
-- **Details coming soon**
+After you have downloaded and installed the software, you will be asked to enter the username and password that you set up for GitHub. Once we have added you to the `dis-orientation` GitHub account, you should see a dashboard screen that looks like this, with `dis-orientation` on the left:
+
+<img alt="git-mac-clone" width="400" src="/images/git-mac-clone.png" style="display:block; margin:0 auto;" />
+
+After you click on `dis-orientation` on the left side of the screen, you can also click on the repository for your university to "clone" this repo to your computer. Cloning a repo to your computer creates a version that is stored and saved directly on your computer. You will be asked where you wish to save this repo and what you wish to call it. Choose a name and a place on your computer that is convenient for you.
+
+Next, you can click on "My Repositories" to see a list of the repositories that you have cloned on your computer, and you can click on the repo for your university:
+
+<img alt="git-mac-myrepos" width="400" src="/images/git-mac-myrepos.png" style="display:block; margin:0 auto;" />
+
+After clicking on your repo for your university, you will see a screen where you can see the history of all changes made to this repository, a list of any current changes you have made, and the different branches of the repository.
+
+<img alt="git-mac-repo" width="400" src="/images/git-mac-repo.png" style="display:block; margin:0 auto;" />
+
+The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch, by clicking on branch in the sidebar and then by clicking on the checkmark next to the `gh-pages` branch.
+
+<img alt="git-mac-branch" width="400" src="/images/git-mac-branch.png" style="display:block; margin:0 auto;" />
 
 ##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
