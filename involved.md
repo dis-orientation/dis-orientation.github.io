@@ -153,7 +153,7 @@ Overall, that's the way to work with the GitHub software for Mac. Next, we'll go
 
 #### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
-To briefly recap and summarize, there are a couple of important things to working with your part of the website using GitHub, regardless of whether you're doing this via the web interface or the software application for Windows or Mac. First, you want to make sure that you are always editing the files in the `gh-pages` branch. Second, whenever you make a change, you need to briefly describe the change and "commit" the change, in order for it to be saved. Finally, if you're editing the files on your computer, after committing a change, you need to "sync" it with the repository on GitHub's servers.
+To briefly recap and summarize, there are a few important things to remember when working with your part of the website using GitHub, regardless of whether you're doing this via the web interface or the software application for Windows or Mac. First, you want to make sure that you are always editing the files in the `gh-pages` branch, **not** the master branch. Second, whenever you make a change, you need to briefly describe the change and "commit" the change, in order for it to be saved. Finally, if you're editing the files on your computer, after committing a change, you need to "sync" it with the repository on GitHub's servers.
 
 And that's it. Those are the three main steps to working with GitHub. Next, we'll look at *how* to edit the website files themselves.
 
