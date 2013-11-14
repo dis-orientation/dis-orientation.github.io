@@ -29,7 +29,7 @@ Below, we will focus on how to get involved if your university isn't already inv
 		
 		- <a href="#windows">On a Windows computer</a>
 		
-- <a href="#step-4">Step 4: Writing dis-orienting content</a>
+- <a href="#step-4">Step 4: Writing dis-orienting content with Jekyll</a>
 
 - <a href="#step-5">Step 5: Un-learn and dis-orient!</a>
 
@@ -149,7 +149,7 @@ Overall, that's the way to work with the GitHub software for Mac. Next, we'll go
 
 - **Details coming soon**
 
-### <a id="step-4">Step 4: Writing dis-orienting content</a><a href="#toc">↩</a>
+### <a id="step-4">Step 4: Writing dis-orienting content with Jekyll</a><a href="#toc">↩</a>
 
 - **Details coming soon**
 
