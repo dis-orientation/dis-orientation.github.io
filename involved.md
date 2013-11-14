@@ -137,6 +137,10 @@ Before this change will take effect online, however, you have to do things. Firs
 
 <img alt="git-mac-commit" width="400" src="/images/git-mac-commit.png" style="display:block; margin:0 auto;" />
 
+Finally, the last step is to sync the changes that you made with the version of the repository on your computer to the version of the repository that is stored on GitHub's servers. To do this, click on "Sync" button that appears after you "Commit" the change.
+
+<img alt="git-mac-sync" width="400" src="/images/git-mac-sync.png" style="display:block; margin:0 auto;" />
+
 ##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
 - **Details coming soon**
