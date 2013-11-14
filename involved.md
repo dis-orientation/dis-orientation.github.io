@@ -127,6 +127,12 @@ The first thing you will need to do is change to the `gh-pages` branch. As noted
 
 <img alt="git-mac-branch" width="400" src="/images/git-mac-branch.png" style="display:block; margin:0 auto;" />
 
+Now that you have switched to the `gh-pages` branch, you can navigate to the folder where you cloned this repo on your computer, and you will be able to see all of the files. This allows you to add things like images and PDF files to your repository, since there is no "upload" button on the GitHub website.
+
+So, if you want to upload a PDF version of one of your university's disorientation guides, you can, for example, create a folder inside of the repo called "xyz-dogs", and then you can copy a PDF file into this folder:
+
+<img alt="git-mac-pdf" width="400" src="/images/git-mac-pdf.png" style="display:block; margin:0 auto;" />
+
 ##### <a id="windows">On Windows</a><a href="#toc">↩</a>
 
 - **Details coming soon**
