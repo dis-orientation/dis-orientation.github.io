@@ -3,7 +3,7 @@ title: Getting Involved
 layout: default
 ---
 
-## Get Involved with the dis-orientation collective
+## Get involved with the dis-orientation collective
 
 Below, we aim to present a comprehensive guide as to how to get involved with the dis-orientation collective. 
 
@@ -11,7 +11,7 @@ The dis-orientation collective and its web presence at `dis-orientation.info` is
 
 Below, we will focus on how to get involved if your university isn't already involved.
 
-### <a id="toc">Table of contents</a>
+### <a id="toc">Table of (dis)contents</a>
 
 - <a href="#step-1">Step 1: Getting in touch</a>
 
@@ -45,9 +45,9 @@ If you do not see your university listed, please get in touch with us by [contac
 
 `dis-orientation.info` provides each university with its own subdomain in order for them to have space to post their own content. A subdomain indicates the first half of a web address. So, in `xyz.dis-orientation.info`, `xyz` is the subdomain part, and `dis-orientation.info` is the main domain name.
 
-In terms of setting up your subdomain, most of the initial heavy lifting will be down by the dis-orientation collective. What is important to know is that our website is hosted using a service called GitHub. GitHub is a hosting service combined with a version control system, which is a service that tracks changes to documents.
+In terms of setting up your subdomain, most of the initial heavy lifting will be done by us, the dis-orientation collective. What is important to know is that our website is hosted using a service called GitHub. GitHub is a hosting service combined with a version control system, which is basically a software service that tracks changes to documents.
 
-#### <a id="why-github">Why GitHub? Why not something that might be a little easier to get set up, like Wordpress?</a><a href="#toc">↩</a>
+#### <a id="why-github">Why GitHub? Why not something that might be a little easier to set up, like Wordpress?</a><a href="#toc">↩</a>
 
 There are a few reasons why we chose to host this project on GitHub.
 
@@ -57,21 +57,21 @@ There are a few reasons why we chose to host this project on GitHub.
 
 1. Finally, once you've made it over the first hurdle of getting everything set up, GitHub hosting provides a really easy way to write content that is very straightforward to learn.
 
-So, after finishing up the details of how to get your subdomain set up, we will walk you through how to use GitHub and how to write content, using the tools provided by GitHub. From then on, you're free to do whatever you wish your subdomain, so long as it contributes to dis-orienting and un-learning and so long as it does not violate any of the values and policies of our collective, as detailed in our [about page](http://dis-orientation.info/about).
+So, after finishing up the details of how to get your subdomain set up, we will walk you through how to use GitHub and how to write content, using the tools provided by GitHub. From then on, you're free to do whatever you wish with your subdomain, so long as it contributes to dis-orienting and un-learning and so long as it does not violate any of the values and policies of our collective, as detailed in our [about page](http://dis-orientation.info/about).
 
 First, though, we need to finish getting your subdomain set up. As mentioned above, we will do the heavy lifting in order to get your subdomain initially set up. Since the project will be hosted on GitHub, this requires telling our domain name registrar (the company managing our domain name, `dis-orientation.info`, to point the new subdomain in the direction of GitHub's servers).
 
 On GitHub, all parts of this website are hosted under an umbrella organization GitHub account called [`dis-orientation`](https://github.com/dis-orientation). If you visit that link, you will notice that there is a "repository" for each subdomain, as well as a repository for the main portion of the website.
 
-We will create a new repository (or "repo", for short) for your university. While we do this, you will need to [create a GitHub account](https://github.com/join). Once we have the new repo set up and have told our domain name registrar to point to that repo on GitHub, we will then add your newly created GitHub account to be a collaborator for the repo for your university. (You can read more about how GitHub organization accounts work [here](https://github.com/blog/674-introducing-organizations)).
+We will create a new repository (or "repo", for short) for your university. While we do this, you will need to [create a GitHub account](https://github.com/join). Once we have the new repo set up and have told our domain name registrar to point to that repo on GitHub, we will then add your newly created GitHub account to be a collaborator for the repo for your university. (You can read more about how GitHub organization accounts work [here](https://github.com/blog/674-introducing-organizations).)
 
-The great part about this is that we can add as many collaborators to a repo as we want. So, for everyone that is part of your dis-orientation group at your university, they can have their own GitHub account and be a collaborator for your university's repo. Just let us know what all of the GitHub accounts are that we need to add as collaborators to your new repo.
+The great part about this is that we can add as many collaborators to a repo as we want. So, for everyone that is part of your dis-orientation group at your university, they can have their own GitHub account and be a collaborator for your university's repo. Just be sure to let us know what all of the GitHub accounts are that we need to add as collaborators to your new repo!
 
 Now that we have your subdomain set up, we will next go over how to work with GitHub. After that, we will go over how to write content, and then we will send you on your merry un-learning and dis-orienting way!
 
 ### <a id="step-3">Step 3: Using GitHub</a><a href="#toc">↩</a>
 
-Broadly speaking, there are two straightforward ways to use GitHub. One of these ways is directly through their website interface, while the other way uses free software that synchronizes the repo on their website with a "clone" of that repo that is stored directly on your computer. If you use the software version, you will then be able to edit the website directly on your computer without an internet connection. After you finish editing the website, all you will need to do is find an internet connection and synchronize the changes that you made on your computer with version of the repo stored on GitHub. (You can also do things from the command line, but we will not cover that here. If you're interested in this option, try poking around the internet for tutorials, if you don't already know to use Git from the command line.)
+Broadly speaking, there are two straightforward ways to use GitHub. One of these ways is directly through their website interface, while the other way uses free software that synchronizes the repo on their website with a "clone" of that repo that is stored directly on your computer. If you use the software version, you will then be able to edit the website directly on your computer without an internet connection. After you finish editing the website, all you will need to do is find an internet connection and synchronize the changes that you made on your computer with version of the repo stored on GitHub. (You can also do things from the command line, but we will not cover that here. If you're interested in this option, try poking around the internet for tutorials, if you don't already know how to use Git from the command line.)
 
 Here, we will go over both the web interface option and the software application option.
 
@@ -85,9 +85,9 @@ Clicking on this will allow you to switch to the `dis-orientation` account conte
 
 <img alt="git-web-find-repo" width="400" src="/images/git-web-find-repo.png" style="display:block; margin:0 auto;" />
 
-After you click on this repo, you will be taken to the GitHub page for where the files are stored. (A way to get here that might be quicker is to navigate directly to `https://github.com/dis-orientation/xyz` in your browser.)
+After you click on this repo, you will be taken to the GitHub page for where the files are stored. (A way to get here that might be quicker is to navigate directly to `https://github.com/dis-orientation/xyz` in your browser, replacing `xyz` with the name of your subdomain.)
 
-GitHub is set up so that each repository can have different "branches". When we tell our domain name registrar to send your subdomain towards GitHub, GitHub displays a special branch of the repository, called `gh-pages`. Therefore, to edit any of the content on the website, you need to switch to the `gh-pages` branch. (Odd as it may seem, the "master" branch will never be relevant for editing your website.)
+GitHub is set up so that each repository can have different "branches". When we tell our domain name registrar to send your subdomain towards GitHub, GitHub displays a special branch of the repository, called `gh-pages`. **Therefore, to edit any of the content on the website, you need to switch to the `gh-pages` branch**. (Odd as it may seem, the "master" branch will never be relevant for editing your website.)
 
 <img alt="git-web-change-branch" width="400" src="/images/git-web-change-branch.png" style="display:block; margin:0 auto;" />
 
@@ -97,7 +97,7 @@ If you click on a file (for example, `contact.md`), you will see this screen, wh
 
 <img alt="git-web-edit" width="400" src="/images/git-web-edit.png" style="display:block; margin:0 auto;" />
 
-After you make a change, in order to save that change, you need to "commit" the change. You can do so at the bottom of the screen. You can enter an extensive description of what change you made (and why), if you would like to do so. That information is stored in the history of the file, so that your collaborators know what changes were made and why. You do not necessarily need to enter an extensive description of the change you made, but it is required that you enter some description explaining the change.
+After you make a change, in order to save that change, you need to "commit" the change. You can do so at the bottom of the screen. You can enter an extensive description of what change you made (and why), if you would like to do so. That information is stored in the history of the file, so that your collaborators know what changes were made and why. You do not necessarily need to enter an extensive description of the change you made, but it is required that you at least enter some description explaining the change.
 
 <img alt="git-web-commit" width="400" src="/images/git-web-commit.png" style="display:block; margin:0 auto;" />
 
@@ -105,7 +105,7 @@ This method of editing the files for your website works well when you have an in
 
 #### <a id="software">GitHub's software application</a><a href="#toc">↩</a>
 
-First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically detect the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
+First, you will need to download the GitHub's native software application. It can be downloaded [here](https://help.github.com/articles/set-up-git). The website should automatically display the correct version of the software for your operating system, but if it does not, there are links at the top of page for each operating system. Click on the correct one:
 
 <img alt="git-software-os" width="400" src="/images/git-software-os.png" style="display:block; margin:0 auto;" />
 
@@ -125,7 +125,7 @@ After clicking on your repo for your university, you will see a screen where you
 
 <img alt="git-mac-repo" width="400" src="/images/git-mac-repo.png" style="display:block; margin:0 auto;" />
 
-The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch, which you can do by clicking on branch in the sidebar and then by clicking on the checkmark next to the `gh-pages` branch.
+The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch, which you can do by clicking on "Branches" in the sidebar and then by clicking on the checkmark next to the `gh-pages` branch.
 
 <img alt="git-mac-branch" width="400" src="/images/git-mac-branch.png" style="display:block; margin:0 auto;" />
 
@@ -135,7 +135,7 @@ So, if you want to upload a PDF version of one of your university's disorientati
 
 <img alt="git-mac-pdf" width="400" src="/images/git-mac-pdf.png" style="display:block; margin:0 auto;" />
 
-Before this change will take effect online, however, you have to do things. First, just like with the web interface, you have to enter a description of your change and "commit" it. To do this, go to the dashboard for your repo in the GitHub application and click on the "Changes" tab in the sidebar. On the right side, you will see the changes that were made. In this case, we see the cover of the PDF that was uploaded. Next, enter a description of the change on the left, and click "Commit".
+Before this change will take effect online, however, you have to do two things. First, just like with the web interface, you have to enter a description of your change and "commit" it. To do this, go to the dashboard for your repo in the GitHub application and click on the "Changes" tab in the sidebar. On the right side, you will see the changes that were made. In this case, we see the cover of the PDF that was uploaded. Next, enter a description of the change on the left, and click "Commit".
 
 <img alt="git-mac-commit" width="400" src="/images/git-mac-commit.png" style="display:block; margin:0 auto;" />
 
@@ -153,7 +153,7 @@ Overall, that's the way to work with the GitHub software for Mac. Next, we'll go
 
 #### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
-To briefly recap and summarize, there are a few important things to remember when working with your part of the website using GitHub, regardless of whether you're doing this via the web interface or the software application for Windows or Mac. First, you want to make sure that you are always editing the files in the `gh-pages` branch, **not** the master branch. Second, whenever you make a change, you need to briefly describe the change and "commit" the change, in order for it to be saved. Finally, if you're editing the files on your computer, after committing a change, you need to "sync" it with the repository on GitHub's servers.
+To briefly recap and summarize, there are a few important things to remember when working with your part of the website using GitHub, regardless of whether you're doing this via the web interface or the software application for Windows or Mac. First, you want to make sure that you are always editing the files in the `gh-pages` branch, **not the master branch**. Second, whenever you make a change, you need to briefly describe the change and "commit" the change, in order for it to be saved. Finally, if you're editing the files on your computer, after committing a change, you need to "sync" it with the repository on GitHub's servers.
 
 And that's it. Those are the three main steps to working with GitHub. Next, we'll look at *how* to edit the website files themselves.
 
