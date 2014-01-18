@@ -149,7 +149,9 @@ Overall, that's the way to work with the GitHub software for Mac. Next, we'll go
 
 ##### <a id="windows">On a Windows computer</a><a href="#toc">↩</a>
 
-- **Details coming soon**
+As with the Mac software, after you have downloaded and installed the Windows software, you will be asked to enter the username and password that you set up for GitHub. Once we have added you to the `dis-orientation` GitHub account, you should see a dashboard screen that looks like this, with `dis-orientation` on the left:
+
+<img alt="git-mac-sync" width="400" src="/images/git-windows-clone.png" style="display:block; margin:0 auto;" />
 
 #### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
