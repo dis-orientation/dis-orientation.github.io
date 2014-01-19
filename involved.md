@@ -151,7 +151,22 @@ Overall, that's the way to work with the GitHub software for Mac. Next, we'll go
 
 As with the Mac software, after you have downloaded and installed the Windows software, you will be asked to enter the username and password that you set up for GitHub. Once we have added you to the `dis-orientation` GitHub account, you should see a dashboard screen that looks like this, with `dis-orientation` on the left:
 
-<img alt="git-mac-sync" width="400" src="/images/git-windows-clone.png" style="display:block; margin:0 auto;" />
+<img alt="git-windows-clone" width="400" src="/images/git-windows-clone.png" style="display:block; margin:0 auto;" />
+
+After you click on `dis-orientation` on the left side of the screen, you can then click on the repository for your university to "clone" this repo to your computer. Cloning a repo to your computer creates a version that is stored and saved directly on your computer. The Windows version of the software has a default location that it puts all cloned repos on your computer. You can change this by navigating to "Tools > Options" and changing the default storage directory, if you would like. Otherwise, the default storage directory will probably be `C:\Documents\GitHub`, or something similar.
+
+Next, you can click on "repositories" under the "local" heading to see a list of all of the repositories that you have cloned on your computer, and you can click on the repo for your university:
+
+IMAGE IS MISSING. WILL BE HERE SOON.
+
+<!--
+<img alt="git-windows-myrepos" width="400" src="/images/git-windows-myrepos.png" style="display:block; margin:0 auto;" />
+-->
+
+The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch. After you have clicked on the local repo for your university, you can do this by then clicking on the branch symbol in the top right that says master next to it. A menu will appear, and you want to select the `gh-pages` branch:
+
+<img alt="git-windows-branch" width="400" src="/images/git-windows-branch.png" style="display:block; margin:0 auto;" />
+
 
 #### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
