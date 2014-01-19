@@ -6,6 +6,8 @@ This CSS sheet is for http://dis-orientation.info
 
 UPDATES AND CHANGELOG:
 ----------------------------------------------------
+- 2013-11-19
+	- Added styling for blogs
 - 2013-11-08
 	- Inception
 ----------------------------------------------------
@@ -103,13 +105,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	padding-bottom: 1em;
 }
 
-#content{
-	width:80%;
-	margin: 0 auto;
-	padding-top: 1em;
-	padding-bottom: 1em;
-}
-
 #footer-wrapper{
 	display: block;
 	width:80%;
@@ -141,16 +136,13 @@ NAVIGATION BAR:
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	position: relative;
 }
 
 #header ul li{
 	display: block;
 	position: relative;
 	float: left;
-}
-
-#header li ul{
-	display: none; 
 }
 
 #header ul li a{
@@ -162,24 +154,71 @@ NAVIGATION BAR:
 	white-space: nowrap;
 }
 
-#header ul li a:hover{
-	background: #4B4137; 
+#header ul ul{
+	display: none;
+	position: fixed;
+	border-radius: 0px;
+	padding: 0;
 }
 
-#header li:hover ul{
+#header ul li:hover > ul{
 	display: block;
-	position: absolute;
 }
 
-#header li:hover li{
+#header ul ul li{
 	float: none;
-	font-size: 11px;
+	position: relative;
 }
 
-#header li:hover a{
-	background: #4B4137; 
+#header ul ul li a{
+	color: #DD6E0F;
+	padding-left: 5px;
+	font-size: small;
 }
 
-#header li:hover li a:hover{
-	background: #4B4137; 
+/*
+STYLING FOR BLOG POSTS ON MAIN BLOG PAGE:
+----------------------------------------------------
+*/
+
+.post{
+	margin-bottom: 4%;
+	border-bottom: 0.07em solid #4B4137;
+}
+
+/* Gets rid of border-bottom for last post in blog posts,
+since there is already a border separating content from footer
+*/
+.post-last{
+	margin-bottom: 4%;
+}
+
+.post-excerpt{
+	padding-top: 15px;
+}
+
+.excerpt-link, .excerpt-link:hover{
+	color: #261309;
+	text-decoration: none;
+}
+
+.post-title{
+	font-size: large;
+	font-weight: bold;
+	line-height: 1em;
+}
+
+.date{
+	font-size: small;
+	font-weight: bold;
+	margin-top: 3px;
+}
+
+/*
+STYLING FOR INDIVIDUAL BLOG POSTS:
+----------------------------------------------------
+*/
+
+.meta-post{
+	font-family: "Times New Roman", Times, serif;
 }
