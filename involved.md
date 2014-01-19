@@ -165,7 +165,7 @@ Overall, that's the way to work with the GitHub software for Mac. Next, we'll go
 
 As with the Mac software, after you have downloaded and installed the Windows software, you will be asked to enter the username and password that you set up for GitHub. Once we have added you to the `dis-orientation` GitHub account, you should see a dashboard screen that looks like this, with `dis-orientation` on the left:
 
-<img alt="git-windows-clone" width="400" src="/images/git-windows-clone.png" style="display:block; margin:0 auto;" />
+<img alt="git-windows-dashboard" width="400" src="/images/git-windows-dashboard.png" style="display:block; margin:0 auto;" />
 
 After you click on `dis-orientation` on the left side of the screen, you can then click on the repository for your university to "clone" this repo to your computer. Cloning a repo to your computer creates a version that is stored and saved directly on your computer. The Windows version of the software has a default location that it puts all cloned repos on your computer. You can change this by navigating to "Tools > Options" and changing the default storage directory, if you would like. Otherwise, the default storage directory will probably be `C:\Documents\GitHub`, or something similar.
 
