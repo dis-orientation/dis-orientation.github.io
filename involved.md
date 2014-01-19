@@ -460,7 +460,43 @@ In addition to styling text, Markdown can also be used to make bulleted lists an
 </div>
 </div>
 
-Notice that the beginning number for numbered lists **doesn't** matter. You could have also started the numbered list items with `9.` instead of `1.`, so long as it is a sing-digit number, it does not matter.
+Notice that the beginning number for numbered lists **doesn't** matter. You could have also started the numbered list items with `9.` instead of `1.`, so long as it is a single-digit number, it does not matter.
+
+You can also embed bulleted and numbered lists by indenting the next item in the list with a tab (or 4 spaces):
+
+<div id="markdown-tutorial-wrapper">
+<div id="markdown-tutorial-code">
+<pre>
+<code>
+- First item in bulleted list
+
+	- A subitem
+
+1. First item in numbered list
+
+	1. A subitem
+
+</code>
+</pre>
+</div>
+<div id="markdown-tutorial-output">
+<ul>
+<li>First item in bulleted list
+<ul>
+<li>Second item in bulleted list</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>First item in numbered list
+<ol>
+<li>Second item in numbered list</li>
+</ol>
+</li>
+</ol>
+<p>&nbsp;</p>
+</div>
+</div>
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
