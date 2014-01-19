@@ -305,9 +305,21 @@ A discussion of how to edit these files will take place below, when we talk abou
 
 ##### <a id="xyz">XYZ-style subdomain</a><a href="#toc">↩</a>
 
+This sample subdomain is very similar to the ABC-style subdomain, except that the homepage of the XYZ-style domain is not a static homepage. Instead, the homepage is also the blog page. Then, in addition to the blog page, there is a page for listing past and present dis-orientation guide issues, an about page, and a contact page.
+
+The files that you will see after cloning the repository to your computer (or after navigating to the repository on `http://github.com`) will be very similar to the files for the ABC-style subdomain. Again, all of the same files can be ignored.
+
+The only difference, now, will be that the `index.md`, which is your homepage, will be configured to be a blog page. Then, there will be a file called `dogs.md`, which is the file that you should edit if you want to make changes to the DOGs page. Again, `about.md` and `contact.md` are the files to be edited for the about page and the contact page, respectively. Next, we'll look at the last possible default layout that we could set your subdomain up with.
+
 ##### <a id="def">DEF-style subdomain</a><a href="#toc">↩</a>
 
+This sample subdomain is similar to the preceding to sample subdomains, except that there is no blog. There is a static homepage, an about page, and a contact page. Again, all of the same files can be ignored, `index.md` should be edited when you want to change the homepage, `about.md` should be edited when you want to change the about page, and `contact.md` should be edited when you want to change the contact page.
+
+Now that you have an understanding of the files that you will see once your subdomain is set up and a sense of which files need to be edited in order to make changes on the actual website, we will talk about how to edit these files in Markdown.
+
 #### <a id="markdown">Markdown</a><a href="#toc">↩</a>
+
+
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
