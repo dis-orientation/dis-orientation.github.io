@@ -19,6 +19,6 @@ Perhaps it is time to rethink our post-secondary education system. Perhaps it is
 
 <footer>
 <ol class="foot-notes">
-	<li id="fn-item1"><strong>Disclaimer</strong>: We're learning to un-learn just like the rest of you! So, if you see anything that would be beneficial to this movement to change/add/omit, just  give us a holler!<a href="#fn-return1">↩</a></li>
+	<li id="fn-item1"><strong>Disclaimer</strong>: We're learning to un-learn just like the rest of you! So, if you see anything that would be beneficial to this movement to change/add/omit, just  <a href="http://dis-orientation.info/contact">give us a holler</a>!<a href="#fn-return1">↩</a></li>
 </ol>
 </footer>
