@@ -6,6 +6,8 @@ This CSS sheet is for http://dis-orientation.info
 
 UPDATES AND CHANGELOG:
 ----------------------------------------------------
+- 2014-01-19
+	- Added styling for Markdown tutorial
 - 2013-11-19
 	- Added styling for blogs
 - 2013-11-08
@@ -124,6 +126,22 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 #footer p{
 	text-align: center;
 	font-size: 0.45em;
+}
+
+#markdown-tutorial-wrapper{
+	width:90%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#markdown-tutorial-code{
+	width: 50%;
+	float: left;
+}
+
+#markdown-tutorial-output{
+	width: 50%;
+	float: right;
 }
 
 /*

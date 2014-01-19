@@ -330,7 +330,27 @@ These lines are necessary to tell Jekyll what the name of the page is and what t
 
 After providing that information to Jekyll, you can start editing the content of your page by typing on the lines below the ending `---`. The following Markdown tutorial is taken almost entirely from this [basic tutorial](http://daringfireball.net/projects/markdown/basics). The one difference is that, in this tutorial, instead of showing what the HTML output is, we will show you what the output will look like in your browser.
 
-Let's start with paragraphs.
+Let's start with paragraphs. Paragraphs are specified with line breaks. Everything that is typed on one line will be rendered as one paragraph. By adding a blank line. You can start a new paragraph. Take a look at the example, where we see the contents of the `.md` file on the left and the output on the right:
+
+<div id="markdown-tutorial-wrapper">
+
+<div id="markdown-tutorial-code">
+<pre>
+<code>
+This is the first paragraph. Next is a blank line.
+
+This is the second paragraph.
+</code>
+</pre>
+</div>
+
+<div id="markdown-tutorial-output">
+<p>This is the first paragraph. Next is a blank line.</p>
+
+<p>This is the second paragraph.</p>
+</div>
+
+</div>
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
