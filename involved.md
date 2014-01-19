@@ -349,7 +349,7 @@ This is the second paragraph.
 </div>
 </div>
 
-In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:
+In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing each line of the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:
 
 <div id="markdown-tutorial-wrapper">
 <div id="markdown-tutorial-code">
@@ -373,7 +373,32 @@ Silly university administrator said:
 </div>
 </div>
 
-Markdown can also be used to have different levels of headings.
+You can also use Markdown to specify different header levels. The level of the header is specified with a certain number of `#`'s, up to six of them. The sections of this tutorial are written using varying levels of `#`'s. Here's an example:
+
+<div id="markdown-tutorial-wrapper">
+<div id="markdown-tutorial-code">
+<pre>
+<code>
+# A first level header
+## A second level header
+### A third level header
+#### A fourth level header
+##### A fifth level header
+###### A sixth level header
+</code>
+</pre>
+</div>
+<div id="markdown-tutorial-output">
+<h1>A first level header</h1>
+<h2>A second level header</h2>
+<h3>A third level header</h3>
+<h4>A fourth level header</h4>
+<h5>A fifth level header</h5>
+<h6>A sixth level header</h6>
+</div>
+</div>
+
+Then,
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
