@@ -348,8 +348,8 @@ This is the second paragraph.
 <p>This is the second paragraph.</p>
 </div>
 </div>
-<br />
-<p>In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:</p>
+
+In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:
 
 <div id="markdown-tutorial-wrapper">
 <div id="markdown-tutorial-code">
@@ -372,7 +372,6 @@ Silly university administrator said:
 </blockquote>
 </div>
 </div>
-<br />
 
 Markdown can also be used to have different levels of headings.
 
