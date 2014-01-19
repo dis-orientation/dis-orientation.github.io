@@ -35,11 +35,11 @@ Below, we will focus on how to get involved if your university isn't already inv
 
 	- <a href="#default-layouts">Default layouts</a>
 	
-		- <a href="abc">ABC-style site</a>
+		- <a href="abc">ABC-style subdomain</a>
 		
-		- <a href="xyz">XYZ-style site</a>
+		- <a href="xyz">XYZ-style subdomain</a>
 		
-		- <a href="def">DEF-style site</a>
+		- <a href="def">DEF-style subdomain</a>
 	
 	- <a href="#markdown">Markdown</a>
 	
@@ -229,7 +229,7 @@ For the sake of getting your subdomain set up in a timely fashion, we have put t
 
 Here, we will look at each of these default layouts in turn, including the files for the website that you will see once you have cloned the repo for your subdomain to your computer and switched to the `gh-pages` branch for your repository (or once you have navigated to the repository home on `http://github.com`, if you intend to use the web interface).
 
-##### <a id="abc">ABC-style site</a><a href="#toc">↩</a>
+##### <a id="abc">ABC-style subdomain</a><a href="#toc">↩</a>
 
 This example subdomain has a layout that includes a static home page, a blog page, an about page, and a contact page. If you look at the files inside of the repository you will see the following files and folders:
 
@@ -303,9 +303,9 @@ If you want to edit your About page, you will need to edit the `about.md` file. 
 
 A discussion of how to edit these files will take place below, when we talk about the Markdown language. Next, we will briefly look at the other two possible default layouts that you can start your subdomain with.
 
-##### <a id="xyz">XYZ-style site</a><a href="#toc">↩</a>
+##### <a id="xyz">XYZ-style subdomain</a><a href="#toc">↩</a>
 
-##### <a id="def">DEF-style site</a><a href="#toc">↩</a>
+##### <a id="def">DEF-style subdomain</a><a href="#toc">↩</a>
 
 #### <a id="markdown">Markdown</a><a href="#toc">↩</a>
 
