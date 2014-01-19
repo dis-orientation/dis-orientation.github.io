@@ -35,6 +35,12 @@ Below, we will focus on how to get involved if your university isn't already inv
 
 	- <a href="#default-layouts">Default layouts</a>
 	
+		- <a href="abc">ABC-style site</a>
+		
+		- <a href="xyz">XYZ-style site</a>
+		
+		- <a href="def">DEF-style site</a>
+	
 	- <a href="#markdown">Markdown</a>
 	
 	- <a href="#blog-with-jekyll">Maintaining a blog with Jekyll</a>
@@ -218,6 +224,16 @@ As some basic background information, basic websites are usually just a collecti
 Nonetheless, we have aimed to set things up so that you can get to editing your subdomain straight away after learning some basic Markdown, something that should hopefully take no more than 30 minutes or so. This section of the getting involved page, then, covers four things. First, we will go over a few different default layouts that we can set up for you. Then, we will look at Markdown, which is very easy to learn. Third, we will discuss how to maintain a blog with Jekyll. And, finally, we will discuss a bit of what would be needed to further customize the design and layout of your subdomain.
 
 #### <a id="default-layouts">Default layouts</a><a href="#toc">↩</a>
+
+For the sake of getting your subdomain set up in a timely fashion, we have put together three default layouts for you to get started with. Again, at the end of this section, we will talk about further customization. However, for the time being, there are three basic options to set up your subdomain. You can find examples of these three default layouts at [`abc.dis-orientation.info`](http://abc.dis-orientation.info), [`xyz.dis-orientation.info`](http://xyz.dis-orientation.info), and [`def.dis-orientation.info`](http://def.dis-orientation.info).
+
+Here, we will look at each of these default layouts in turn, including the files for the website that you will see once you have cloned the repo for your subdomain to your computer and switched to the `gh-pages` branch for your repository.
+
+##### <a id="abc">ABC-style site</a><a href="#toc">↩</a>
+
+##### <a id="xyz">XYZ-style site</a><a href="#toc">↩</a>
+
+##### <a id="def">DEF-style site</a><a href="#toc">↩</a>
 
 #### <a id="markdown">Markdown</a><a href="#toc">↩</a>
 
