@@ -352,7 +352,6 @@ This is the second paragraph.
 <p>In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:</p>
 
 <div id="markdown-tutorial-wrapper">
-
 <div id="markdown-tutorial-code">
 <pre>
 <code>
@@ -365,7 +364,6 @@ Silly university administrator said:
 </code>
 </pre>
 </div>
-
 <div id="markdown-tutorial-output">
 <p>Silly university administrator said:</p>
 <blockquote>
@@ -373,7 +371,6 @@ Silly university administrator said:
 <p>It's better for business!</p>
 </blockquote>
 </div>
-
 </div>
 <br />
 
