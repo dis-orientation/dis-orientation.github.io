@@ -400,7 +400,7 @@ You can also use Markdown to specify different header levels. The level of the h
 
 In terms of header levels, the title of every page is written as a first level header. (In the case of this page, that would be "Dis-orientation collective" at the very top of the page.) Because of this, we recommend that you start all of your header levels with a second level header. Of course, it's your subdomain and it's up to you. This is just a recommendation.
 
-Next, moving on to text styling, we can make text bold by using either `**` or `__`. Similarly, we can make text italic by using either `*` or `_`. And we can mix the two:
+Next, moving on to text styling, we can make text bold by using either `**` or `__` (two underscores). Similarly, we can make text italic by using either `*` or `_`. And we can mix the two:
 
 <div id="markdown-tutorial-wrapper">
 <div id="markdown-tutorial-code">
@@ -429,20 +429,6 @@ __More *italic* text inside bold text__
 <p><strong>More <em>italic</em> text inside bold text</strong></p>
 </div>
 </div>
-
-Sanity check:
-
-**Bold** text
-
-More __bold__ text
-
-*Italic* text
-
-More _italic_ text
-
-**_Italic_ text inside bold text**
-
-__More *italic* text inside bold text__
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
