@@ -33,6 +33,12 @@ Below, we will focus on how to get involved if your university isn't already inv
 		
 - <a href="#step-4">Step 4: Writing dis-orienting content with Jekyll</a>
 
+	- <a href="#default-layouts">Default layouts</a>
+	
+	- <a href="#markdown">Markdown</a>
+	
+	- <a href="#further-customization">Further customization</a>
+
 - <a href="#step-5">Step 5: Un-learn and dis-orient!</a>
 
 ### <a id="step-1">Step 1: Getting in touch</a><a href="#toc">↩</a>
@@ -205,7 +211,15 @@ And that's it. Those are the three main steps to working with GitHub. Next, we'l
 
 ### <a id="step-4">Step 4: Writing dis-orienting content with Jekyll</a><a href="#toc">↩</a>
 
-- **Details coming soon**
+As some basic background information, basic websites are basically just a collection of HTML files. Browsers like Firefox and Google Chrome have instructions for how to display these HTML files. But, underneath it all is just a collection of text files. Now, HTML isn't necessarily the easiest thing to learn, but one of the thing that's nice about GitHub (and this is one of the reasons we chose to use GitHub) is that you can write website content in a really simple computer language called Markdown. GitHub uses a program called [Jekyll](http://jekyllrb.com/) to automatically convert the Markdown files into HTML to be displayed as your website. If you want to significantly change the appearance and layout of your part of the website, you will likely have to learn some HTML and CSS, or we can also work with you to help you change the layout how you would like. (If you would like to learn some HTML and CSS, [W3Schools](http://www.w3schools.com/) is a great way to do this.)
+
+Nonetheless, we have aimed to set things up so that you can get to editing your subdomain straight away after learning some basic Markdown, something that should hopefully take no more than 30 minutes or so. This section of the getting involved page, then, covers three things. First, we will go over a few different default layouts that we can set up for you. Then, we will look at Markdown briefly. Finally, we will discuss a bit of what would be needed to further customize the design and layout of your subdomain.
+
+#### <a id="default-layouts">Default layouts</a><a href="#toc">↩</a>
+
+#### <a id="markdown">Markdown</a><a href="#toc">↩</a>
+
+#### <a id="further-customization">Further customization</a><a href="#toc">↩</a>
 
 ### <a id="step-5">Step 5: Un-learn and dis-orient!</a><a href="#toc">↩</a>
 
