@@ -143,7 +143,7 @@ The first thing you will need to do is change to the `gh-pages` branch. As noted
 
 <img alt="git-mac-branch" width="400" src="/images/git-mac-branch.png" style="display:block; margin:0 auto;" />
 
-Now that you have switched to the `gh-pages` branch, you can navigate to the folder where you cloned this repo on your computer, and you will be able to see all of the files. This allows you to add things like images and PDF files to your repository, which is something that you **cannot** do on the GitHub web interface, since there is no "upload" button on the GitHub website.
+Now that you have switched to the `gh-pages` branch, you can navigate to the folder where you cloned this repo on your computer using Finder, and you will be able to see all of the files. This allows you to add things like images and PDF files to your repository, which is something that you **cannot** do on the GitHub web interface, since there is no "upload" button on the GitHub website.
 
 So, if you want to upload a PDF version of one of your university's disorientation guides, you can, for example, create a folder inside of the repo called "xyz-dogs", and then you can copy a PDF file into this folder:
 
@@ -167,45 +167,41 @@ As with the Mac software, after you have downloaded and installed the Windows so
 
 <img alt="git-windows-dashboard" width="400" src="/images/git-windows-dashboard.png" style="display:block; margin:0 auto;" />
 
-After you click on `dis-orientation` on the left side of the screen, you can then click on the repository for your university to "clone" this repo to your computer. Cloning a repo to your computer creates a version that is stored and saved directly on your computer. The Windows version of the software has a default location that it puts all cloned repos on your computer. You can change this by navigating to "Tools > Options" and changing the default storage directory, if you would like. Otherwise, the default storage directory will probably be `C:\Documents\GitHub`, or something similar.
+After you click on `dis-orientation` on the left side of the screen, you can then click on the repository for your university to "clone" this repo to your computer.
 
-Next, you can click on "repositories" under the "local" heading to see a list of all of the repositories that you have cloned on your computer, and you can click on the repo for your university:
+<img alt="git-windows-clone" width="400" src="/images/git-windows-clone.png" style"display:block; margin: 0 auto;" />
 
-IMAGE IS MISSING. WILL BE HERE SOON.
+Cloning a repo to your computer creates a version that is stored and saved directly on your computer. The Windows version of the software has a default location that it puts all cloned repos on your computer. You can change this by navigating to "Tools > Options".
 
-<!--
-<img alt="git-windows-myrepos" width="400" src="/images/git-windows-myrepos.png" style="display:block; margin:0 auto;" />
--->
+<img alt="git-windows-options" width="400" src="/images/git-windows-options.png" style"display:block; margin: 0 auto;" />
+
+Here, you can change the default storage directory, if you would like. Otherwise, the default storage directory will probably be `C:\Documents\GitHub`, or something similar.
+
+<img alt="git-windows-defaultdirectory" width="400" src="/images/git-windows-defaultdirectory.png" style"display:block; margin: 0 auto;" />
+
+Once you have chosen a default storage location for your cloned repositories and once you have cloned the repository for your university, you can click on "repositories" under the "local" heading to see a list of all of the repositories that you have cloned on your computer, and then you can click on the repo for your university:
+
+<img alt="git-windows-local" width="400" src="/images/git-windows-local.png" style="display:block; margin:0 auto;" />
 
 The first thing you will need to do is change to the `gh-pages` branch. As noted above, the only branch that will ever be relevant is the `gh-pages` branch because this is what GitHub uses to display website content. So, you will always want to make sure that you're repository is set to the `gh-pages` branch. After you have clicked on the local repo for your university, you can do this by then clicking on the branch symbol in the top right that says master next to it. A menu will appear, and you want to select the `gh-pages` branch:
 
 <img alt="git-windows-branch" width="400" src="/images/git-windows-branch.png" style="display:block; margin:0 auto;" />
 
-Now that you have switched to the `gh-pages` branch, you can navigate to the folder where the cloned version of the repo is stored on your computer. Remember that this is the folder that is listed as the default storage directory location under "Tools > Options". Here, you will be able to see all of the files for your part of the website. Moreover, this allows you to add things like images and PDF files to your repository, which is something that you **cannot** do on the GitHub web interface, since there is no "upload" button on the GitHub website.
+Now that you have switched to the `gh-pages` branch, you can navigate to the folder where the cloned version of the repo is stored on your computer using Windows Explorer. (Remember that this is the folder that is listed as the default storage directory location under "Tools > Options".) Here, you will be able to see all of the files for your part of the website. Moreover, this allows you to add things like images and PDF files to your repository, which is something that you **cannot** do on the GitHub web interface, since there is no "upload" button on the GitHub website.
 
-So, if you want to upload a PDF version of one of your university's disorientation guides, you can, for example, create a folder inside of the repo called "xyz-dogs", and then you can copy a PDF file into this folder:
+So, if you want to upload a PDF version of one of your university's disorientation guides, you can, for example, create a folder inside of the repo called `xyz-dogs`, and then you can copy a PDF file into this folder:
 
-IMAGE IS MISSING. WILL BE HERE SOON.
+<img alt="git-windows-pdf" width="400" src="/images/git-windows-pdf.png" style="display:block; margin:0 auto;" />
 
-<!--
-<img alt="git-mac-pdf" width="400" src="/images/git-mac-pdf.png" style="display:block; margin:0 auto;" />
--->
+In the screenshot, you can see that a folder called `xyz-dogs` was created inside of the `xyz` folder, and then the PDF of the dis-orientation guide was copied and pasted into this folder.
 
-Before this change will take effect online, however, you have to do two things. First, just like with the web interface, you have to enter a description of your change and "commit" it. To do this, you just have to be viewing the local version of the repo inside the GitHub application. Any chances you make will automatically appear, and there will be a box in the upper left corner for you to write your description and commit the changes, by clicking "commit to gh-pages" after you enter your description.
+Before this change will take effect online, however, you have to do two things. First, just like with the web interface, you have to enter a description of your change and "commit" it. To do this, you just have to be viewing the local version of the repo inside the GitHub application (found by clicking on "repositories" under "local", just as described above). Any changes you make will automatically appear, and there will be a box in the upper left corner for you to write your description and commit the changes, by clicking "commit to gh-pages" after you enter your description.
 
-IMAGE IS MISSING. WILL BE HERE SOON.
-
-<!--
 <img alt="git-windows-commit" width="400" src="/images/git-windows-commit.png" style="display:block; margin:0 auto;" />
--->
 
 Finally, the last step is to sync the changes that you made with the version of the repository on your computer to the version of the repository that is stored on GitHub's servers. To do this, click on "sync" button in the top right corner of the screen, next to the "branches" button. After you have "committed" a change, you will see a blue button appear with the number of commits that you have made that you have not yet synchronized. In this case, there is only 1 commit that has yet to be synchronized.
 
-IMAGE IS MISSING. WILL BE HERE SOON.
-
-<!--
 <img alt="git-windows-sync" width="400" src="/images/git-windows-sync.png" style="display:block; margin:0 auto;" />
--->
 
 As with the Mac version, this last step with the Windows version of the software must also be done when you have internet connection. But, other than this last step, you can edit your website without an internet connection. Then, when you can connect to the internet, you can sync your changes.
 
