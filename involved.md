@@ -407,31 +407,41 @@ Next, moving on to text styling, we can make text bold by using either `**` or `
 <pre>
 <code>
 **Bold** text
+
 More __bold__ text
+
 *Italic* text
+
 More _italic_ text
+
 **_Italic_ text inside bold text**
+
 __More *italic* text inside bold text__
 </code>
 </pre>
 </div>
 <div id="markdown-tutorial-output">
 <strong>Bold</strong> text
-More <strong>bold</strong> text
-<em>Italic</em> text
-More _<em>italic</em> text
-<strong><em>Italic</em> text inside bold text</strong>
-<strong>More <em>italic</em> text inside bold text</strong>
+<p>More <strong>bold</strong> text</p>
+<p><em>Italic</em> text</p>
+<p>More <em>italic</em> text</p>
+<p><strong><em>Italic</em> text inside bold text</strong></p>
+<p><strong>More <em>italic</em> text inside bold text</strong></p>
 </div>
 </div>
 
 Sanity check:
 
 **Bold** text
+
 More __bold__ text
+
 *Italic* text
+
 More _italic_ text
+
 **_Italic_ text inside bold text**
+
 __More *italic* text inside bold text__
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
