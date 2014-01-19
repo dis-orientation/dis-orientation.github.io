@@ -233,53 +233,53 @@ Here, we will look at each of these default layouts in turn, including the files
 
 This example subdomain has a layout that includes a static home page, a blog page, an about page, and a contact page. If you look at the files inside of the repository you will see the following files and folders:
 
-- _config.yml 
+- `_config.yml`
 
-- _includes
+- `_includes`
 
-	- footer.html
+	- `footer.html`
 	
-	- header.html
+	- `header.html`
 
-- _layouts
+- `_layouts`
 
-	- default.html
+	- `default.html`
 	
-	- post-default.html
+	- `post-default.html`
 	
-- _posts
+- `_posts`
 
-	- 2013-01-01-sample-blog-post-1.md
+	- `2013-01-01-sample-blog-post-1.md`
 	
-	- 2013-08-01-sample-blog-post-2.md
+	- `2013-08-01-sample-blog-post-2.md`
 	
-	- 2013-11-01-sample-blog-post-3.md
+	- `2013-11-01-sample-blog-post-3.md`
 	
-- 404.html
+- `404.html`
 
-- about.md
+- `about.md`
 
-- blog.md
+- `blog.md`
 
-- CNAME
+- `CNAME`
 
-- contact.md
+- `contact.md`
 
-- css
+- `css`
 
-	- main.css
+	- `main.css`
 	
-- images
+- `images`
 
-	- contact.gif
+	- `contact.gif`
 	
-	- DiplomaFistMarkup.gif	
+	- `DiplomaFistMarkup.gif`
 	
-	- twitter.png
+	- `twitter.png`
 	
-- index.md
+- `index.md`
 
-- README.md
+- `README.md`
 
 ##### <a id="xyz">XYZ-style site</a><a href="#toc">↩</a>
 
