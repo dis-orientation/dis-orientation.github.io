@@ -167,6 +167,15 @@ The first thing you will need to do is change to the `gh-pages` branch. As noted
 
 <img alt="git-windows-branch" width="400" src="/images/git-windows-branch.png" style="display:block; margin:0 auto;" />
 
+Now that you have switched to the `gh-pages` branch, you can navigate to the folder where the cloned version of the repo is stored on your computer. Remember that this is the folder that is listed as the default storage directory location under "Tools > Options". Here, you will be able to see all of the files for your part of the website. Moreover, this allows you to add things like images and PDF files to your repository, which is something that you **cannot** do on the GitHub web interface, since there is no "upload" button on the GitHub website.
+
+So, if you want to upload a PDF version of one of your university's disorientation guides, you can, for example, create a folder inside of the repo called "xyz-dogs", and then you can copy a PDF file into this folder:
+
+IMAGE IS MISSING. WILL BE HERE SOON.
+
+<!--
+<img alt="git-mac-pdf" width="400" src="/images/git-mac-pdf.png" style="display:block; margin:0 auto;" />
+-->
 
 #### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
