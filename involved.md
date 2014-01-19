@@ -37,7 +37,7 @@ Below, we will focus on how to get involved if your university isn't already inv
 	
 	- <a href="#markdown">Markdown</a>
 	
-	- <a href="#blog-with-jekyl">Maintaining a blog with Jekyll</a>
+	- <a href="#blog-with-jekyll">Maintaining a blog with Jekyll</a>
 		
 	- <a href="#further-customization">Further customization</a>
 
