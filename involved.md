@@ -430,6 +430,37 @@ __More *italic* text inside bold text__
 </div>
 </div>
 
+In addition to styling text, Markdown can also be used to make bulleted lists and numbered lists. Bulleted lists are created by prefixing the line with `-`, and numbered lists are created by prefixing the line with `1.`:
+
+<div id="markdown-tutorial-wrapper">
+<div id="markdown-tutorial-code">
+<pre>
+<code>
+- First item in bulleted list
+
+- Second item in bulleted list
+
+1. First item in numbered list
+
+1. Second item in numbered list
+
+</code>
+</pre>
+</div>
+<div id="markdown-tutorial-output">
+<ul>
+<li>First item in bulleted list</li>
+<li>Second item in bulleted list</li>
+</ul>
+<ol>
+<li>First item in numbered list</li>
+<li>Second item in numbered list</li>
+</ol>
+</div>
+</div>
+
+Notice that the beginning number for numbered lists **doesn't** matter. You could have also started the numbered list items with `9.` instead of `1.`, so long as it is a sing-digit number, it does not matter.
+
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
 #### <a id="further-customization">Further customization</a><a href="#toc">↩</a>
