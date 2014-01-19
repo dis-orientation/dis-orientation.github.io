@@ -483,14 +483,14 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 <ul>
 <li>First item in bulleted list
 <ul>
-<li>Second item in bulleted list</li>
+<li>A subitem</li>
 </ul>
 </li>
 </ul>
 <ol>
 <li>First item in numbered list
 <ol>
-<li>Second item in numbered list</li>
+<li>A subitem</li>
 </ol>
 </li>
 </ol>
