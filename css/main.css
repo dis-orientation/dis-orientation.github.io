@@ -150,17 +150,16 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 #markdown-tutorial-code{
 	width: 44%;
 	float: left;
-	padding: 1em;
-	border-right: dashed;
-	border-width: thin;
-	border-color: #4B4137;
-	
+	padding: 1em;	
 }
 
 #markdown-tutorial-output{
 	width: 44%;
 	float: right;
 	padding: 1em;
+	border-left: dashed;
+	border-width: thin;
+	border-color: #4B4137;
 }
 
 /*
