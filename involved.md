@@ -177,6 +177,26 @@ IMAGE IS MISSING. WILL BE HERE SOON.
 <img alt="git-mac-pdf" width="400" src="/images/git-mac-pdf.png" style="display:block; margin:0 auto;" />
 -->
 
+Before this change will take effect online, however, you have to do two things. First, just like with the web interface, you have to enter a description of your change and "commit" it. To do this, you just have to be viewing the local version of the repo inside the GitHub application. Any chances you make will automatically appear, and there will be a box in the upper left corner for you to write your description and commit the changes, by clicking "commit to gh-pages" after you enter your description.
+
+IMAGE IS MISSING. WILL BE HERE SOON.
+
+<!--
+<img alt="git-windows-commit" width="400" src="/images/git-windows-commit.png" style="display:block; margin:0 auto;" />
+-->
+
+Finally, the last step is to sync the changes that you made with the version of the repository on your computer to the version of the repository that is stored on GitHub's servers. To do this, click on "sync" button in the top right corner of the screen, next to the "branches" button. After you have "committed" a change, you will see a blue button appear with the number of commits that you have made that you have not yet synchronized. In this case, there is only 1 commit that has yet to be synchronized.
+
+IMAGE IS MISSING. WILL BE HERE SOON.
+
+<!--
+<img alt="git-windows-sync" width="400" src="/images/git-windows-sync.png" style="display:block; margin:0 auto;" />
+-->
+
+As with the Mac version, this last step with the Windows version of the software must also be done when you have internet connection. But, other than this last step, you can edit your website without an internet connection. Then, when you can connect to the internet, you can sync your changes.
+
+Overall, that's the way to work with the GitHub software for Windows. After a brief recap that highlights the important points, we'll move on to how to edit your website files!
+
 #### <a id="github-summary">GitHub: Recap and summary</a><a href="#toc">↩</a>
 
 To briefly recap and summarize, there are a few important things to remember when working with your part of the website using GitHub, regardless of whether you're doing this via the web interface or the software application for Windows or Mac. First, you want to make sure that you are always editing the files in the `gh-pages` branch, **not the master branch**. Second, whenever you make a change, you need to briefly describe the change and "commit" the change, in order for it to be saved. Third, if you're editing the files on your computer, after committing a change, you need to "sync" it with the repository on GitHub's servers. Finally, if you use the software client and not the web interface, **it is best practice that you always "sync" the clone of the repo on your computer with the version that is stored online on GithHub's servers _before you begin editing_**. This is because other folks that you work with might have made changes to your website that will not be reflected in the clone on your computer until you sync it. You can do this by clicking "Sync Branch" in the top right of the Mac software client and "Sync" in the top right of the Windows software client.
