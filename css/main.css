@@ -148,7 +148,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #markdown-tutorial-code{
-	width: 48%;
+	width: 45%;
 	float: left;
 	padding: 1em;
 	border-right: dashed;
@@ -158,7 +158,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #markdown-tutorial-output{
-	width: 48%;
+	width: 45%;
 	float: right;
 	padding: 1em;
 }
