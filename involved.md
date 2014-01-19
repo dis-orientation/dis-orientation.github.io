@@ -333,7 +333,6 @@ After providing that information to Jekyll, you can start editing the content of
 Let's start with paragraphs. Paragraphs are specified with line breaks. Everything that is typed on one line will be rendered as one paragraph. By adding a blank line, you can start a new paragraph. Take a look at the example, where we see the contents of the `.md` file on the left and the output on the right:
 
 <div id="markdown-tutorial-wrapper">
-
 <div id="markdown-tutorial-code">
 <pre>
 <code>
@@ -343,15 +342,13 @@ This is the second paragraph.
 </code>
 </pre>
 </div>
-
 <div id="markdown-tutorial-output">
 <p>This is the first paragraph. Next is a blank line.</p>
 
 <p>This is the second paragraph.</p>
 </div>
-
 </div>
-
+<br />
 <p>In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:</p>
 
 <div id="markdown-tutorial-wrapper">
