@@ -328,7 +328,7 @@ So, if you open the `about.md` page for your new subdomain with your favorite te
 	
 These lines are necessary to tell Jekyll what the name of the page is and what template it should use to build the page. You are welcome to change the name of the page, but you should not change the layout because doing so will cause the page to break.
 
-After providing that information to Jekyll, you can start editing the content of your page. The following Markdown tutorial is taken almost entirely from this [basic tutorial](http://daringfireball.net/projects/markdown/basics). The one difference is that, in this tutorial, instead of showing what the HTML output is, we will show you what the output will look like in your browser.
+After providing that information to Jekyll, you can start editing the content of your page by typing on the lines below the ending `---`. The following Markdown tutorial is taken almost entirely from this [basic tutorial](http://daringfireball.net/projects/markdown/basics). The one difference is that, in this tutorial, instead of showing what the HTML output is, we will show you what the output will look like in your browser.
 
 Let's start with paragraphs.
 
