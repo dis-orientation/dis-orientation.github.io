@@ -35,11 +35,11 @@ Below, we will focus on how to get involved if your university isn't already inv
 
 	- <a href="#default-layouts">Default layouts</a>
 	
-		- <a href="abc">ABC-style subdomain</a>
+		- <a href="#abc">ABC-style subdomain</a>
 		
-		- <a href="xyz">XYZ-style subdomain</a>
+		- <a href="#xyz">XYZ-style subdomain</a>
 		
-		- <a href="def">DEF-style subdomain</a>
+		- <a href="#def">DEF-style subdomain</a>
 	
 	- <a href="#markdown">Markdown</a>
 	
