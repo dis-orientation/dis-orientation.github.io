@@ -457,7 +457,6 @@ In addition to styling text, Markdown can also be used to make bulleted lists an
 <li>Second item in numbered list</li>
 </ol>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 </div>
 </div>
 
