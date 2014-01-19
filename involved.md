@@ -169,15 +169,15 @@ As with the Mac software, after you have downloaded and installed the Windows so
 
 After you click on `dis-orientation` on the left side of the screen, you can then click on the repository for your university to "clone" this repo to your computer.
 
-<img alt="git-windows-clone" width="400" src="/images/git-windows-clone.png" style"display:block; margin:0 auto;" />
+<img alt="git-windows-clone" width="400" src="/images/git-windows-clone.png" style="display:block; margin:0 auto;" />
 
 Cloning a repo to your computer creates a version that is stored and saved directly on your computer. The Windows version of the software has a default location that it puts all cloned repos on your computer. You can change this by navigating to "Tools > Options".
 
-<img alt="git-windows-options" width="400" src="/images/git-windows-options.png" style"display:block; margin:0 auto;" />
+<img alt="git-windows-options" width="400" src="/images/git-windows-options.png" style="display:block; margin:0 auto;" />
 
 Here, you can change the default storage directory, if you would like. Otherwise, the default storage directory will probably be `C:\Documents\GitHub`, or something similar.
 
-<img alt="git-windows-defaultdirectory" width="400" src="/images/git-windows-defaultdirectory.png" style"display:block; margin:0 auto;" />
+<img alt="git-windows-defaultdirectory" width="400" src="/images/git-windows-defaultdirectory.png" style="display:block; margin:0 auto;" />
 
 Once you have chosen a default storage location for your cloned repositories and once you have cloned the repository for your university, you can click on "repositories" under the "local" heading to see a list of all of the repositories that you have cloned on your computer, and then you can click on the repo for your university:
 
