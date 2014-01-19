@@ -227,9 +227,59 @@ Nonetheless, we have aimed to set things up so that you can get to editing your 
 
 For the sake of getting your subdomain set up in a timely fashion, we have put together three default layouts for you to get started with. Again, at the end of this section, we will talk about further customization. However, for the time being, there are three basic options to set up your subdomain. You can find examples of these three default layouts at [`abc.dis-orientation.info`](http://abc.dis-orientation.info), [`xyz.dis-orientation.info`](http://xyz.dis-orientation.info), and [`def.dis-orientation.info`](http://def.dis-orientation.info).
 
-Here, we will look at each of these default layouts in turn, including the files for the website that you will see once you have cloned the repo for your subdomain to your computer and switched to the `gh-pages` branch for your repository.
+Here, we will look at each of these default layouts in turn, including the files for the website that you will see once you have cloned the repo for your subdomain to your computer and switched to the `gh-pages` branch for your repository (or once you have navigated to the repository home on `http://github.com`, if you intend to use the web interface).
 
 ##### <a id="abc">ABC-style site</a><a href="#toc">↩</a>
+
+This example subdomain has a layout that includes a static home page, a blog page, an about page, and a contact page. If you look at the files inside of the repository you will see the following files and folders:
+
+- _config.yml 
+
+- _includes
+
+	- footer.html
+	
+	- header.html
+
+- _layouts
+
+	- default.html
+	
+	- post-default.html
+	
+- _posts
+
+	- 2013-01-01-sample-blog-post-1.md
+	
+	- 2013-08-01-sample-blog-post-2.md
+	
+	- 2013-11-01-sample-blog-post-3.md
+	
+- 404.html
+
+- about.md
+
+- blog.md
+
+- CNAME
+
+- contact.md
+
+- css
+
+	- main.css
+	
+- images
+
+	- contact.gif
+	
+	- DiplomaFistMarkup.gif	
+	
+	- twitter.png
+	
+- index.md
+
+- README.md
 
 ##### <a id="xyz">XYZ-style site</a><a href="#toc">↩</a>
 
