@@ -199,7 +199,7 @@ Before this change will take effect online, however, you have to do two things. 
 
 <img alt="git-windows-commit" width="400" src="/images/git-windows-commit.png" style="display:block; margin:0 auto;" />
 
-Finally, the last step is to sync the changes that you made with the version of the repository on your computer to the version of the repository that is stored on GitHub's servers. To do this, click on "sync" button in the top right corner of the screen, next to the "branches" button. After you have "committed" a change, you will see a blue button appear with the number of commits that you have made that you have not yet synchronized. In this case, there is only 1 commit that has yet to be synchronized.
+Finally, the last step is to sync the changes that you made with the version of the repository on your computer to the version of the repository that is stored on GitHub's servers. To do this, click on the "sync" button in the top right corner of the screen, next to the "branches" button. After you have "committed" a change, you will see a blue button appear with the number of commits that you have made that you have not yet synchronized. In this case, there is only 1 commit that has yet to be synchronized.
 
 <img alt="git-windows-sync" width="400" src="/images/git-windows-sync.png" style="display:block; margin:0 auto;" />
 
