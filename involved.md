@@ -315,7 +315,22 @@ Now that you have an understanding of the files that you will see once your subd
 
 #### <a id="markdown">Markdown</a><a href="#toc">↩</a>
 
+The first thing you will want is some sort of text editor. Markdown files (*i.e.*, `.md` files) are just plain text files, so you want to edit them in a simple text editor. On Windows, the default text editor is Notepad++, and, on Mac, the default text editor is TextEdit. Both of these are perfectly fine, though there are also alternatives that you can download online. (For Mac, for example, I much prefer to use [TextWrangler](http://www.barebones.com/products/textwrangler/) over TextEdit.)
 
+Now, as noted above, Markdown is a pretty straightforward computer language to learn. GitHub then uses Jekyll to convert your Markdown to HTML. At the top of every Markdown file (which is the `.md` file extension), we have to provide some information to Jekyll so that it can build the page the right way.
+
+So, if you open the `about.md` page for your new subdomain with your favorite text editor, you will see lines at the top of the file that look like:
+
+	---
+	title: XYZ Dis-orientation About
+	layout: default
+	---
+	
+These lines are necessary to tell Jekyll what the name of the page is and what template it should use to build the page. You are welcome to change the name of the page, but you should not change the layout because doing so will cause the page to break.
+
+After providing that information to Jekyll, you can start editing the content of your page. The following Markdown tutorial is taken almost entirely from this [basic tutorial](http://daringfireball.net/projects/markdown/basics). The one difference is that, in this tutorial, instead of showing what the HTML output is, we will show you what the output will look like in your browser.
+
+Let's start with paragraphs.
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
