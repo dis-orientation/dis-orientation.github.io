@@ -137,7 +137,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #markdown-tutorial-wrapper{
-	clear: both;
 	width:90%;
 	margin: 0 auto;
 	text-align: left;
@@ -145,6 +144,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	border-color: #4B4137;
 	border-width: thin;
 	border-radius: 1em;
+	overflow: hidden;
 }
 
 #markdown-tutorial-code{
