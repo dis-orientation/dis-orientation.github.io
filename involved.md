@@ -528,43 +528,29 @@ Images work almost the exact same way as links, except you put a `!` at the begi
 <code>
 Inline style, with a bad link, so the alt text will be displayed:
 
-![Dis-orientation collective logo](http://dis-orientation.info/bad/example)
+![Twitter icon](http://dis-orientation.info/bad/example)
 
 A reference-style image:
 
-![Dis-orientation collective logo][logo]
+![Twitter icon][twitter]
 
-[logo]: http://dis-orientation.info/images/DiplomaFistMarkup.gif
+[twitter]: http://dis-orientation.info/images/twitter.png
 
 Using it again elsewhere:
 
-![Dis-orientation collective logo][logo]
+![Twitter icon][twitter]
 </code>
 </pre>
 </div>
 <div id="markdown-tutorial-output" style="min-height:280px">
 <p>Inline style, with a bad link, so the alt text will be displayed:</p>
-<img src="http://dis-orientation.info/bad/example" alt="Dis-orientation collective logo" />
+<img src="http://dis-orientation.info/bad/example" alt="Twitter icon" />
 <p>A reference-style image:</p>
-<img src="http://dis-orientation.info/images/DiplomaFistMarkup.gif" alt="Dis-orientation collective logo" />
+<img src="http://dis-orientation.info/images/twitter.png" alt="Twitter icon" />
 <p>Using it again elsewhere:</p>
-<img src="http://dis-orientation.info/images/DiplomaFistMarkup.gif" alt="Dis-orientation collective logo" />
+<img src="http://dis-orientation.info/images/twitter.png" alt="Twitter icon" />
 </div>
 </div>
-
-Sanity check:
-
-Inline style, with a bad link, so the alt text will be displayed:
-
-![Dis-orientation collective logo](http://dis-orientation.info/bad/example)
-
-A reference-style image:
-
-![Dis-orientation collective logo][logo]
-
-[logo]: http://dis-orientation.info/images/DiplomaFistMarkup.gif
-
-Using it again elsewhere:
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
