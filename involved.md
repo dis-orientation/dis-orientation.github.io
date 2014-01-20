@@ -420,7 +420,7 @@ __More *italic* text inside bold text__
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:200px">
+<div id="markdown-tutorial-output" style="min-height:240px">
 <strong>Bold</strong> text
 <p>More <strong>bold</strong> text</p>
 <p><em>Italic</em> text</p>
