@@ -342,7 +342,7 @@ This is the second paragraph.
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:160px">
+<div id="markdown-tutorial-output" style="min-height:120px">
 <p>This is the first paragraph. Next is a blank line.</p>
 
 <p>This is the second paragraph.</p>
