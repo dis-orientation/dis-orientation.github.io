@@ -520,6 +520,52 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 </div>
 </div>
 
+Images work almost the exact same way as links, except you put a `!` at the beginning of the entire thing. Inside of the brackets, you can write alternative text, which will be displayed in case the image cannot be found. It's a good idea to add some alternative text. Here's an example, using both inline images and reference-style images:
+
+<div id="markdown-tutorial-wrapper">
+<div id="markdown-tutorial-code">
+<pre>
+<code>
+Inline style, with a bad link, so the alt text will be displayed:
+
+![Dis-orientation collective logo](http://dis-orientation.info/bad/example)
+
+A reference-style image:
+
+![Dis-orientation collective logo][logo]
+
+[logo]: http://dis-orientation.info/images/DiplomaFistMarkup.gif
+
+Using it again elsewhere:
+
+![Dis-orientation collective logo][logo]
+</code>
+</pre>
+</div>
+<div id="markdown-tutorial-output" style="min-height:280px">
+<p>Inline style, with a bad link, so the alt text will be displayed:</p>
+<img src="http://dis-orientation.info/bad/example" alt="Dis-orientation collective logo" />
+<p>A reference-style image:</p>
+<img src="http://dis-orientation.info/images/DiplomaFistMarkup.gif" alt="Dis-orientation collective logo" />
+<p>Using it again elsewhere:</p>
+<img src="http://dis-orientation.info/images/DiplomaFistMarkup.gif" alt="Dis-orientation collective logo" />
+</div>
+</div>
+
+Sanity check:
+
+Inline style, with a bad link, so the alt text will be displayed:
+
+![Dis-orientation collective logo](http://dis-orientation.info/bad/example)
+
+A reference-style image:
+
+![Dis-orientation collective logo][logo]
+
+[logo]: http://dis-orientation.info/images/DiplomaFistMarkup.gif
+
+Using it again elsewhere:
+
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
 - **Details coming soon**
