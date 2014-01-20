@@ -342,7 +342,7 @@ This is the second paragraph.
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output">
+<div id="markdown-tutorial-output" style="min-height:160px">
 <p>This is the first paragraph. Next is a blank line.</p>
 
 <p>This is the second paragraph.</p>
@@ -351,7 +351,7 @@ This is the second paragraph.
 
 In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing each line of the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:
 
-<div id="markdown-tutorial-wrapper">
+<div id="markdown-tutorial-wrapper" style="min-height:160px">
 <div id="markdown-tutorial-code">
 <pre>
 <code>
@@ -447,7 +447,7 @@ In addition to styling text, Markdown can also be used to make bulleted lists an
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output">
+<div id="markdown-tutorial-output" style="min-height:160px">
 <ul>
 <li>First item in bulleted list</li>
 <li>Second item in bulleted list</li>
@@ -456,7 +456,6 @@ In addition to styling text, Markdown can also be used to make bulleted lists an
 <li>First item in numbered list</li>
 <li>Second item in numbered list</li>
 </ol>
-<p>&nbsp;</p>
 </div>
 </div>
 
@@ -479,7 +478,7 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:160px">
+<div id="markdown-tutorial-output" style="min-height:180px">
 <ul>
 <li>First item in bulleted list
 <ul>
@@ -514,7 +513,7 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:260px">
+<div id="markdown-tutorial-output" style="min-height:280px">
 <p>An inline <a href="http://dis-orientation.info">link to dis-orientation.info</a></p>
 <p>A reference-style <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link to CMU's first DOG</a></p>
 <p>The nice thing about reference-style links is that you can use that <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link</a> again</p>
