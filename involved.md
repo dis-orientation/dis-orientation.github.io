@@ -479,7 +479,7 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output">
+<div id="markdown-tutorial-output" style="min-height:160px">
 <ul>
 <li>First item in bulleted list
 <ul>
@@ -494,7 +494,6 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 </ol>
 </li>
 </ol>
-<p>&nbsp;</p>
 </div>
 </div>
 
