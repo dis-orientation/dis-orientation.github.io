@@ -519,6 +519,8 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 <p>An inline <a href="http://dis-orientation.info">link to dis-orientation.info</a></p>
 <p>A reference-style <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link to CMU's first DOG</a></p>
 <p>The nice thing about reference-style links is that you can use that <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link</a> again</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </div>
 
