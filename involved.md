@@ -520,7 +520,7 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 </div>
 </div>
 
-Images work almost the exact same way as links, except you put a `!` at the beginning of the entire thing. Inside of the brackets, you can write alternative text, which will be displayed in case the image cannot be found. It's a good idea to add some alternative text. Here's an example, using both inline images and reference-style images:
+Images work almost the exact same way as links, except you put a `!` at the beginning of the entire thing. Inside of the first set of brackets, you can write alternative text, which will be displayed in case the image cannot be found. It's a good idea to add some alternative text. Here's an example, using both inline images and reference-style images:
 
 <div id="markdown-tutorial-wrapper">
 <div id="markdown-tutorial-code">
