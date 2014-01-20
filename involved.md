@@ -498,9 +498,47 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 </div>
 </div>
 
+There are two last important things that you can do with Markdown: links and images. The way to do both of these things in Markdown is very similar. Let's start with links. There are two ways to do links: inline links and reference-style links. Here's an example:
+
+<div id="markdown-tutorial-wrapper">
+<div id="markdown-tutorial-code">
+<pre>
+<code>
+An inline [link to dis-orientation.info](http://dis-orientation.info)
+
+A reference-style [link to CMU's first DOG][CMU-DOG-1]
+
+[CMU-DOG1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
+
+The nice thing about reference-style links is that you can use that [link][CMU-DOG-1] again
+
+</code>
+</pre>
+</div>
+<div id="markdown-tutorial-output">
+<p>An inline <a href="http://dis-orientation.info">link to dis-orientation.info</a></p>
+<p>A reference-style <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link to CMU's first DOG</a></p>
+<p>The nice thing about reference-style links is that you can use that <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link</a> again</p>
+</div>
+</div>
+
+Sanity check:
+
+An inline [link to dis-orientation.info](http://dis-orientation.info)
+
+A reference [link to CMU's first dog][CMU-DOG-1]
+
+[CMU-DOG1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
+
+The nice thing about reference-style links is that you can use that [link][CMU-DOG-1] again
+
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
+- **Details coming soon**
+
 #### <a id="further-customization">Further customization</a><a href="#toc">↩</a>
+
+- **Details coming soon**
 
 ### <a id="step-5">Step 5: Un-learn and dis-orient!</a><a href="#toc">↩</a>
 
