@@ -508,7 +508,7 @@ An inline [link to dis-orientation.info](http://dis-orientation.info)
 
 A reference-style [link to CMU's first DOG][CMU-DOG-1]
 
-[CMU-DOG1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
+[CMU-DOG-1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
 
 The nice thing about reference-style links is that you can use that [link][CMU-DOG-1] again
 
@@ -530,7 +530,7 @@ An inline [link to dis-orientation.info](http://dis-orientation.info)
 
 A reference [link to CMU's first dog][CMU-DOG-1]
 
-[CMU-DOG1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
+[CMU-DOG-1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
 
 The nice thing about reference-style links is that you can use that [link][CMU-DOG-1] again
 
