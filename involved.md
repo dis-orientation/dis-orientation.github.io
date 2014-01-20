@@ -447,7 +447,7 @@ In addition to styling text, Markdown can also be used to make bulleted lists an
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:170px">
+<div id="markdown-tutorial-output" style="min-height:175px">
 <ul>
 <li>First item in bulleted list</li>
 <li>Second item in bulleted list</li>
@@ -478,7 +478,7 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:170px">
+<div id="markdown-tutorial-output" style="min-height:175px">
 <ul>
 <li>First item in bulleted list
 <ul>
@@ -513,7 +513,7 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:270px">
+<div id="markdown-tutorial-output" style="min-height:275px">
 <p>An inline <a href="http://dis-orientation.info">link to dis-orientation.info</a></p>
 <p>A reference-style <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link to CMU's first DOG</a></p>
 <p>The nice thing about reference-style links is that you can use that <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link</a> again</p>
