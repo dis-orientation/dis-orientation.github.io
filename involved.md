@@ -526,7 +526,7 @@ Images work almost the exact same way as links, except you put a `!` at the begi
 <div id="markdown-tutorial-code">
 <pre>
 <code>
-Inline style, with a bad link, so the alt text will be displayed:
+Inline style, with a bad link, so the alt text will be displayed (depending on your browser):
 
 ![Twitter icon](http://dis-orientation.info/bad/example)
 
@@ -543,7 +543,7 @@ Using it again elsewhere:
 </pre>
 </div>
 <div id="markdown-tutorial-output" style="min-height:280px">
-<p>Inline style, with a bad link, so the alt text will be displayed:</p>
+<p>Inline style, with a bad link, so the alt text will be displayed (depending on your browser):</p>
 <img src="http://dis-orientation.info/bad/example" alt="Twitter icon" />
 <p>A reference-style image:</p>
 <img src="http://dis-orientation.info/images/twitter.png" alt="Twitter icon" />
