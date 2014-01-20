@@ -521,18 +521,9 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 <p>The nice thing about reference-style links is that you can use that <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link</a> again</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </div>
-
-Sanity check:
-
-An inline [link to dis-orientation.info](http://dis-orientation.info)
-
-A reference [link to CMU's first dog][CMU-DOG-1]
-
-[CMU-DOG-1]: http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf
-
-The nice thing about reference-style links is that you can use that [link][CMU-DOG-1] again
 
 #### <a id="blog-with-jekyll">Maintaining a blog with Jekyll</a><a href="#toc">↩</a>
 
