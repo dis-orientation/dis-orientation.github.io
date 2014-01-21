@@ -11,4 +11,4 @@ We are a collective of students that are fed up with our campus newspapers blabb
 
  This collective hopes that by educating students, faculty, staff, and community members about the messy issues which need solving, our industrialized institution of "education" can start to deconstruct and work towards a more liberating future for all.
 
-This is a student led project that welcomes new people, ideas, and issues! Interested in getting involved, or have a topic that you would like to see a particular university cover? Email us at: disorientation@riseup.net or DIY by [getting involved!] (http://dis-orientation.info/involved/) We would love to support you and your group in any capacity!
+This is a student led project that welcomes new people, ideas, and issues! Interested in getting involved, or have a topic that you would like to see a particular university cover? Email us at: disorientation@riseup.net or DIY by [getting involved!](http://dis-orientation.info/involved/) We would love to support you and your group in any capacity!
