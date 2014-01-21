@@ -5,7 +5,7 @@ layout: default
 
 ## About the dis-orientation collective
 
-It is time for the "leaders" of our universities, and all "educational" institutions to wake up from false volunteerism, tokenization that propels the "isms," standardized testing in preparation of maintaining the status quo, and take a look at the real justice-based issues at hand. The colonial "white savior" mentality will not create the much needed systematic change. Read these dis-orientation guides (sometimes referred to as DOG(s)) with a loving and open mind!
+It is time for the "leaders" of our universities, and all "educational" institutions to wake up from false volunteerism, tokenization that propels oppressive "isms," standardized testing in preparation of maintaining the status quo, and take a look at the real justice-based issues at hand. The colonial "white savior" mentality will not create the much needed systematic change. Read these dis-orientation guides (sometimes referred to as DOG(s)) with a loving and open mind!
 
 We are a collective of students that are fed up with our campus newspapers blabbering about hogwash. So, we are trying to create alternative venues for subversive writing, doodling, poetry, etc. Any topic and or dis-orientation guide "issue" is welcome so long as it's "real talk." 
 
