@@ -7,7 +7,6 @@ categories:
 - un-learning
 tags:
 - structural issues
-- 
 ---
 
 ## And it begins!
