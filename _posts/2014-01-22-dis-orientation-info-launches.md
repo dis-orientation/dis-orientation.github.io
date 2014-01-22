@@ -1,6 +1,6 @@
 ---
 layout: post-default
-title: `dis-orientation.info` launches!
+title: dis-orientation.info launches!
 author: The collective
 categories:
 - dis-orientation
@@ -19,7 +19,7 @@ And, most importantly, how can we effect change so that universities play the ro
 
 Too often, we take things for granted without critically thinking about them, especially those things that are so accepted and ingrained as 'natural' in society:
 
-<iframe style="margin: 0 auto;" width="560" height="315" src="//www.youtube.com/embed/DH0FYpIyJ0E" frameborder="0" allowfullscreen></iframe>
+<iframe style="display:block;margin:0 auto;" width="560" height="315" src="//www.youtube.com/embed/DH0FYpIyJ0E" frameborder="0" allowfullscreen></iframe>
 
 <p style="text-align: center;">Rheum, a short film by the <a href="http://www.thenortonbrothers.com/">Norton Brothers</a>.</p>
 
