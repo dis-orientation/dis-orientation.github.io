@@ -14,9 +14,8 @@ layout: default
 <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
 </div>
 <div class="post-excerpt">
-<a href="{{ post.url }}" class="excerpt-link">
-{{ post.content | split:"<!-- more -->" | first }}
-</a>
+{{ post.content | split:"<!-- more -->" | first }}<br />
+<a href="{{ post.url }}" class="excerpt-link">Read more ... </a><br />
 <br/>
 </div>
 </div>
