@@ -21,6 +21,6 @@ Too often, we take things for granted without critically thinking about them, es
 
 <iframe style="display:block;margin:0 auto;" width="560" height="315" src="//www.youtube.com/embed/DH0FYpIyJ0E" frameborder="0" allowfullscreen></iframe>
 
-<p style="text-align: center;">Rheum, a short film by the <a href="http://www.thenortonbrothers.com/">Norton Brothers</a>.</p>
+<p style="text-align:center;font-size:smaller;">Rheum, a short film by the <a href="http://www.thenortonbrothers.com/">Norton Brothers</a>.</p>
 
 It's time to think critically about what we take for granted! It's time to **un-learn** and **dis-orient**!
