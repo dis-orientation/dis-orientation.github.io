@@ -21,6 +21,8 @@ If you don't see your university listed below but would like to contribute disor
 
 ### <a id="alph-item-c" href="#alph-return-c">C</a>
 
+- [(University of) California - Santa Cruz](http://ucsc.dis-orientation.info)
+
 - [Central Michigan University](http://cmu.dis-orientation.info)
 
 <!--
