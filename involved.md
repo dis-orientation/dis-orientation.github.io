@@ -332,8 +332,8 @@ After providing that information to Jekyll, you can start editing the content of
 
 Let's start with paragraphs. Paragraphs are specified with line breaks. Everything that is typed on one line will be rendered as one paragraph. By adding a blank line, you can start a new paragraph. Take a look at the example, where we see the contents of the `.md` file on the left and the output on the right:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 This is the first paragraph. Next is a blank line.
@@ -342,7 +342,7 @@ This is the second paragraph.
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:120px">
+<div class="markdown-tutorial-output" style="min-height:120px">
 <p>This is the first paragraph. Next is a blank line.</p>
 
 <p>This is the second paragraph.</p>
@@ -351,8 +351,8 @@ This is the second paragraph.
 
 In addition to paragraphs, we can also insert blockquotes using Markdown by prefixing each line of the blockquote with `>`. Blockquotes can have multiple paragraphs, too, so long as there is a blank line in the blockquote. Take a look at the example:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 Silly university administrator said:
@@ -364,7 +364,7 @@ Silly university administrator said:
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:160px">
+<div class="markdown-tutorial-output" style="min-height:160px">
 <p>Silly university administrator said:</p>
 <blockquote>
 <p>Let's take away all of the student rights!</p>
@@ -375,8 +375,8 @@ Silly university administrator said:
 
 You can also use Markdown to specify different header levels. The level of the header is specified with a certain number of `#`'s, up to six of them. The sections of this tutorial are written using varying levels of `#`'s. Here's an example:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 # A first level header
@@ -388,7 +388,7 @@ You can also use Markdown to specify different header levels. The level of the h
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output">
+<div class="markdown-tutorial-output">
 <h1>A first level header</h1>
 <h2>A second level header</h2>
 <h3>A third level header</h3>
@@ -402,8 +402,8 @@ In terms of header levels, the title of every page is written as a first level h
 
 Next, moving on to text styling, we can make text bold by using either `**` or `__` (two underscores). Similarly, we can make text italic by using either `*` or `_`. And we can mix the two:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 **Bold** text
@@ -420,7 +420,7 @@ __More *italic* text inside bold text__
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:240px">
+<div class="markdown-tutorial-output" style="min-height:240px">
 <strong>Bold</strong> text
 <p>More <strong>bold</strong> text</p>
 <p><em>Italic</em> text</p>
@@ -432,8 +432,8 @@ __More *italic* text inside bold text__
 
 In addition to styling text, Markdown can also be used to make bulleted lists and numbered lists. Bulleted lists are created by prefixing the line with `-`, and numbered lists are created by prefixing the line with `1.`:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 - First item in bulleted list
@@ -447,7 +447,7 @@ In addition to styling text, Markdown can also be used to make bulleted lists an
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:180px">
+<div class="markdown-tutorial-output" style="min-height:180px">
 <ul>
 <li>First item in bulleted list</li>
 <li>Second item in bulleted list</li>
@@ -463,8 +463,8 @@ Notice that the beginning number for numbered lists **doesn't** matter. You coul
 
 You can also embed bulleted and numbered lists by indenting the next item in the list with a tab (or 4 spaces):
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 - First item in bulleted list
@@ -478,7 +478,7 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:180px">
+<div class="markdown-tutorial-output" style="min-height:180px">
 <ul>
 <li>First item in bulleted list
 <ul>
@@ -498,8 +498,8 @@ You can also embed bulleted and numbered lists by indenting the next item in the
 
 There are two last important things that you can do with Markdown: links and images. The way to do both of these things in Markdown is very similar. Let's start with links. There are two ways to do links: inline links and reference-style links. Here's an example:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 An inline [link to dis-orientation.info](http://dis-orientation.info)
@@ -513,7 +513,7 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:280px">
+<div class="markdown-tutorial-output" style="min-height:280px">
 <p>An inline <a href="http://dis-orientation.info">link to dis-orientation.info</a></p>
 <p>A reference-style <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link to CMU's first DOG</a></p>
 <p>The nice thing about reference-style links is that you can use that <a href="http://cmu.dis-orientation.info/cmu-dogs/CMUDOGISSUE1DIVESTMENT.pdf">link</a> again</p>
@@ -522,8 +522,8 @@ The nice thing about reference-style links is that you can use that [link][CMU-D
 
 Images work almost the exact same way as links, except you put a `!` at the beginning of the entire thing. Inside of the first set of brackets, you can write alternative text, which will be displayed in case the image cannot be found. It's a good idea to add some alternative text. Here's an example, using both inline images and reference-style images:
 
-<div id="markdown-tutorial-wrapper">
-<div id="markdown-tutorial-code">
+<div class="markdown-tutorial-wrapper">
+<div class="markdown-tutorial-code">
 <pre>
 <code>
 Inline style, with a bad link, so the alt text will be displayed (depending on your browser):
@@ -542,7 +542,7 @@ Using it again elsewhere:
 </code>
 </pre>
 </div>
-<div id="markdown-tutorial-output" style="min-height:280px">
+<div class="markdown-tutorial-output" style="min-height:280px">
 <p>Inline style, with a bad link, so the alt text will be displayed (depending on your browser):</p>
 <img src="http://dis-orientation.info/bad/example" alt="Twitter icon" />
 <p>A reference-style image:</p>

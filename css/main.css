@@ -6,6 +6,10 @@ This CSS sheet is for http://dis-orientation.info
 
 UPDATES AND CHANGELOG:
 ----------------------------------------------------
+- 2014-06-03
+	- Consistent spacing
+	- Updated license
+	- Fixed id vs class issue for 
 - 2014-01-19
 	- Added styling for Markdown tutorial
 - 2013-11-19
@@ -16,13 +20,13 @@ UPDATES AND CHANGELOG:
 
 RIGHTS:
 ----------------------------------------------------
-This CSS style sheet is placed under the Creative
-Commons Attribution-NonCommercial-ShareAlike 
-3.0 Unported License:
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
+This CSS style sheet is placed under the Creative Commons 
+Attribution-NonCommercial-ShareAlike 
+4.0 International License:
+http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Modify and use as you wish, though not for commercial 
-purposes. Attribute and share under a similar license!
+Modify and use as you wish, though not for commercial purposes.
+Attribute and share under a similar license!
 ----------------------------------------------------
 */
 
@@ -52,7 +56,7 @@ p{
 	text-align: justify;
 }
 
-pre {
+pre{
 	white-space: pre-wrap;       /* css-3 */
 	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
 	white-space: -pre-wrap;      /* Opera 4-6 */
@@ -73,33 +77,33 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #header-wrapper{
-	width:80%;
+	width: 80%;
 	margin: 0 auto;
 	padding-bottom: 3em;
 	border-bottom: 0.188em solid #4B4137;
 }
 
 #logo{
-	position:absolute;
+	position: absolute;
 	top: 0;
 	right: 0;
 }
 
 #page-title{
 	position: inherit;
-	width:100%;
+	width: 100%;
 	color: #B22613;
 	text-decoration: none;
 }
 
 #page-title table td.left{
 	text-align: left;
-	vertical-align:middle;
+	vertical-align: middle;
 }
 
 #page-title table td.right{
 	text-align: right;
-	vertical-align:middle;
+	vertical-align: middle;
 }
 
 #header{
@@ -117,15 +121,15 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 
 #footer-wrapper{
 	display: block;
-	width:80%;
-	margin:0 auto;
+	width: 80%;
+	margin: 0 auto;
 	padding: 1em 0.5em 0em 0.5em;
 }
 
 #footer{
-	width:100%;
+	width: 100%;
 	margin: 0 auto;
-	font-weight:900;
+	font-weight: 900;
 	font-stretch: expanded;
 	text-align: center;
 	border-top: 0.188em solid #4B4137;
@@ -136,8 +140,13 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	font-size: 0.45em;
 }
 
-#markdown-tutorial-wrapper{
-	width:90%;
+/*
+SOME DIV CLASSES FOR THE MARKDOWN TUTORIAL:
+----------------------------------------------------
+*/
+
+.markdown-tutorial-wrapper{
+	width: 90%;
 	margin: 0 auto;
 	text-align: left;
 	border-style: solid;
@@ -147,13 +156,13 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	overflow: hidden;
 }
 
-#markdown-tutorial-code{
+.markdown-tutorial-code{
 	width: 44%;
 	float: left;
 	padding: 1em;	
 }
 
-#markdown-tutorial-output{
+.markdown-tutorial-output{
 	width: 44%;
 	float: right;
 	padding: 1em;
