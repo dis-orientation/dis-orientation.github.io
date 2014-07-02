@@ -17,6 +17,8 @@ Perhaps it is time to rethink our post-secondary education system. Perhaps it is
 
 <iframe width="400" height="329" style="display:block;margin:0 auto;" src="http://www.youtube.com/embed/PhFvZRT7Ds0"></iframe>
 
+* * *
+
 [^1]: We're learning to un-learn just like the rest of you! So, if you see anything that would be beneficial to this movement to change/add/omit, just [give us a holler!][contact]
 
 [about]: http://dis-orientation.info/about/
