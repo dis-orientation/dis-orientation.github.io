@@ -1,10 +1,10 @@
-name: "Dis-orientation Collective"
+name: "Dis-Orientation Collective"
 description: "All the things you ought to know about universities"
 
-url: "http://dis-orientation.info"
+url: "http://dis-orientation.info/"
 
 paginate: 10
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 pygments: true
