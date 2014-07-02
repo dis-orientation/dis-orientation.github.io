@@ -1,5 +1,5 @@
 ---
-title: Dis-orientation Collective
+title: Dis-Orientation Collective
 layout: dev
 ---
 
