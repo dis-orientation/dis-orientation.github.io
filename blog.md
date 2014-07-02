@@ -1,9 +1,9 @@
 ---
-title: Dis-orientation Collective Blog
+title: Dis-Orientation Collective Blog
 layout: default
 ---
 
-## `dis-orientation.info` Blog
+## Dis-Orientation Collective Blog
 
 {% for post in site.posts %}
 {% if forloop.last != true %}
