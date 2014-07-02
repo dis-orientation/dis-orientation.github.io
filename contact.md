@@ -5,7 +5,7 @@ layout: default
 
 ## Contact
 
-To contact the Dis-orientation Collective, please email us at:
+To contact the Dis-Orientation Collective, please email us at:
 
 <img src="/images/contact.gif" width="400" alt="contact" style="display: block;margin-left: auto;margin-right: auto;background-color:#EEE9CA" /> 
 
