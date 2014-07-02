@@ -3,11 +3,11 @@ title: Getting Involved
 layout: default
 ---
 
-## Get involved with the dis-orientation collective
+## Get involved with the Dis-Orientation Collective
 
-Below, we aim to present a comprehensive guide as to how to get involved with the dis-orientation collective. 
+Below, we aim to present a comprehensive guide as to how to get involved with the Dis-Orientation Collective. 
 
-The dis-orientation collective and its web presence at `dis-orientation.info` is a collaboration between individuals at a wide variety of universities. As such, the content on this website is not homogenous. Although the content is not necessarily homogenous, we are all committed to bringing to the fore systemic issues with universities by disrupting the normal narrative that unversities tell with dis-orienting information. To learn more about us, you should read our [about page](http://dis-orientation.info/about). 
+The Dis-Orientation Collective and its web presence at `dis-orientation.info` is a collaboration between individuals at a wide variety of universities. As such, the content on this website is not homogenous. Although the content is not necessarily homogenous, we are all committed to bringing to the fore systemic issues with universities by disrupting the normal narrative that unversities tell with dis-orienting information. To learn more about us, you should read our [about page](http://dis-orientation.info/about). 
 
 Below, we will focus on how to get involved if your university isn't already involved.
 
@@ -59,7 +59,7 @@ If you do not see your university listed, please get in touch with us by [contac
 
 `dis-orientation.info` provides each university with its own subdomain in order for them to have space to post their own content. A subdomain indicates the first half of a web address. So, in `xyz.dis-orientation.info`, `xyz` is the subdomain part, and `dis-orientation.info` is the main domain name.
 
-In terms of setting up your subdomain, most of the initial heavy lifting will be done by us, the dis-orientation collective. What is important to know is that our website is hosted using a service called GitHub. GitHub is a hosting service combined with a version control system, which is basically a software service that tracks changes to documents.
+In terms of setting up your subdomain, most of the initial heavy lifting will be done by us, the Dis-Orientation Collective. What is important to know is that our website is hosted using a service called GitHub. GitHub is a hosting service combined with a version control system, which is basically a software service that tracks changes to documents.
 
 #### <a id="why-github">Why GitHub? Why not something that might be a little easier to set up, like Wordpress?</a><a href="#toc">↩</a>
 
@@ -67,7 +67,7 @@ There are a few reasons why we chose to host this project on GitHub.
 
 1. First and foremost, GitHub provides free hosting. When setting up a website, there are usually two key aspects to doing so: (i) purchasing a domain name (something like `example.com`) and (ii) paying for someone to store the files that generate your website on a server that is connected to the internet. Since GitHub provides free hosting, the only thing we have to do is pay for the domain name, `dis-orientation.info`, reducing the cost to maintain this project.
 
-1. Second, GitHub inherently employs a version control system. This allows us to run the website in a de-centralized manner, while still having a high degree of transparency and accountability. GitHub allows its users to see all of the changes that have been made to files, who made those changes, and when they were made. (It also allows us to revert to older versions of those files, which, practically speaking, is a great provision in case of accidental deletion of any of the website files!) The dis-orientation collective highly values transparency (after all, we're trying to make universities more transparent by airing dirty laundry that they otherwise hide with their narratives), and so using GitHub provides transparency within our collective itself by allowing all of our contributors to see who made which changes. It also easily allows us to have many universities contribute content, without necessarily having to coordinate with every other university that is involved with the collective, which we would have to do if we were sharing one Wordpress account.
+1. Second, GitHub inherently employs a version control system. This allows us to run the website in a de-centralized manner, while still having a high degree of transparency and accountability. GitHub allows its users to see all of the changes that have been made to files, who made those changes, and when they were made. (It also allows us to revert to older versions of those files, which, practically speaking, is a great provision in case of accidental deletion of any of the website files!) The Dis-Orientation Collective highly values transparency (after all, we're trying to make universities more transparent by airing dirty laundry that they otherwise hide with their narratives), and so using GitHub provides transparency within our collective itself by allowing all of our contributors to see who made which changes. It also easily allows us to have many universities contribute content, without necessarily having to coordinate with every other university that is involved with the collective, which we would have to do if we were sharing one Wordpress account.
 
 1. Finally, once you've made it over the first hurdle of getting everything set up, GitHub hosting provides a really easy way to write content that is very straightforward to learn.
 
@@ -306,7 +306,7 @@ Now, as noted above, Markdown is a pretty straightforward computer language to l
 So, if you open the `about.md` page for your new subdomain with your favorite text editor, you will see lines at the top of the file that look like:
 
 	---
-	title: XYZ Dis-orientation About
+	title: XYZ Dis-Orientation About
 	layout: default
 	---
 	
@@ -382,7 +382,7 @@ You can also use Markdown to specify different header levels. The level of the h
 </div>
 </div>
 
-In terms of header levels, the title of every page is written as a first level header. (In the case of this page, that would be "Dis-orientation collective" at the very top of the page.) Because of this, we recommend that you start all of your header levels with a second level header. Of course, it's your subdomain and it's up to you. This is just a recommendation.
+In terms of header levels, the title of every page is written as a first level header. (In the case of this page, that would be "Dis-Orientation collective" at the very top of the page.) Because of this, we recommend that you start all of your header levels with a second level header. Of course, it's your subdomain and it's up to you. This is just a recommendation.
 
 Next, moving on to text styling, we can make text bold by using either `**` or `__` (two underscores). Similarly, we can make text italic by using either `*` or `_`. And we can mix the two:
 
