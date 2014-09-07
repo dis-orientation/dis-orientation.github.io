@@ -3,7 +3,7 @@ title: Dis-Orientation Collective
 layout: dev
 ---
 
-## IT'S TIME TO UN-LEARN AND DIS-ORIENT.
+<h1> IT'S TIME TO <span class="permanent-marker">UN-LEARN</span> AND <span class="permanent-marker">DIS-ORIENT</span>.</h1>
 
 This page only exists for development purposes. In particular, it exists for testing different styling and layouts for the `dis-orientation.info` website. It makes use of the file `dev.css` rather than `main.css`.
 
