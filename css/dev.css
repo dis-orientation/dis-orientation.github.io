@@ -184,7 +184,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 #header-wrapper{
 	width: 100%;
 	margin: 0 auto;
-	padding-bottom: 3em;
+	padding-bottom: 2em;
 	border-bottom: 5px solid black;
 }
 
