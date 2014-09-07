@@ -187,29 +187,8 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #logo{
-	background: url(images/logo.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	width: 100%;
-}
-
-#page-title{
 	position: inherit;
 	width: 100%;
-	color: #B22613;
-	text-decoration: none;
-}
-
-#page-title table td.left{
-	text-align: left;
-	vertical-align: middle;
-}
-
-#page-title table td.right{
-	text-align: right;
-	vertical-align: middle;
 }
 
 #header{
@@ -219,7 +198,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #content-wrapper{
-	width: 80%;
+	width: 100%;
 	clear: both;
 	margin: 0 auto;
 	padding-bottom: 1em;
