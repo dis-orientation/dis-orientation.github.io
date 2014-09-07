@@ -262,9 +262,6 @@ NAVIGATION BAR:
 */
 
 #header ul{
-	font-family : 'DOCK11-Heavy';
-	font-size : 20px;
-	color : #000000;
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -278,6 +275,9 @@ NAVIGATION BAR:
 }
 
 #header ul li a{
+	font-family : 'DOCK11-Heavy';
+	font-size : 20px;
+	color : #000000;
 	display: block;
 	text-decoration: none;
 	padding: 5px 15px 5px 15px;
