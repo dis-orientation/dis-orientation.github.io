@@ -134,7 +134,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	font-weight: 900;
 	font-stretch: expanded;
 	text-align: center;
-	border-top: 0.188em solid #4B4137;
+	border-top: 5px solid black;
 }
 
 #footer p{
