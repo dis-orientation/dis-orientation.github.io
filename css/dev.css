@@ -35,100 +35,6 @@ This CSS sheet is for http://dis-orientation.info
 
 @font-face {font-family: 'DOCK11-Heavy';src: url('webfonts/2BECCE_0_0.eot');src: url('webfonts/2BECCE_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2BECCE_0_0.woff') format('woff'),url('webfonts/2BECCE_0_0.ttf') format('truetype');}
 
-/* STUFF */
-
-@charset "utf-8";
-	.x3C_BackgroundImage_x3E_
-{
-	background-image : url(x3C_BackgroundImage_x3E_.png);
-	background-repeat : no-repeat;
-	position : absolute ;
-	left : 0px;
-	top : 0px;
-}
-.NormalCharacterStyle7
-{
-	font-family : 'DOCK11-Heavy';
-	font-size : 20px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.NormalCharacterStyle6
-{
-	font-family : DOCK11 Heavy;
-	font-size : 20px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.NormalCharacterStyle5
-{
-	font-family : DOCK11 Heavy;
-	font-size : 20px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.NormalCharacterStyle4
-{
-	font-family : DOCK11 Heavy;
-	font-size : 20px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.NormalCharacterStyle3
-{
-	font-family : DOCK11 Heavy;
-	font-size : 20px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.NormalCharacterStyle2
-{
-	font-family : DOCK11 Heavy;
-	font-size : 20px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.x3C_HeaderRule_x3E_
-{
-	background : #000000;
-	background : rgba(0, 0, 0, 1);
-	position : absolute ;
-	left : -41px;
-	top : 114px;
-}
-.NormalCharacterStyle
-{
-	font-family : Myriad Pro;
-	font-size : 11px;
-	line-height : 11px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.x3C_SideBar_x3E_
-{
-	background-image : url(x3C_SideBar_x3E_.png);
-	background-repeat : no-repeat;
-	position : absolute ;
-	left : 617px;
-	top : 140px;
-}
-.NormalCharacterStyle1
-{
-	font-family : Myriad Pro;
-	font-size : 37px;
-	line-height : 33px;
-	color : #000000;
-	color : rgb(0, 0, 0);
-}
-.x3C_HeaderBar_x3E_
-{
-	background-image : url(x3C_HeaderBar_x3E_.png);
-	background-repeat : no-repeat;
-	position : absolute ;
-	left : -11px;
-	top : 9px;
-}
-
 
 /*
 MAIN BODY STYLING:
@@ -153,7 +59,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 a, a:hover{
-	color: #DD6E0F;
+	color: #E82C0C;
 	text-decoration: none;
 }
 
