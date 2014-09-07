@@ -187,10 +187,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 }
 
 #logo{
-	background: url(images/logo.jpg);
-	position: absolute;
-	top: 0;
-	left: 0;
+	background: url(images/logo.jpg) no-repeat center center fixed;
 	width: 100%;
 }
 
