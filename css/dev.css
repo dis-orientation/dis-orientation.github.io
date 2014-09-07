@@ -178,7 +178,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	display: block;
 	margin: 0 auto;
 	position: relative;
-	width: 900px;
+	width: 100%;
 }
 
 #header-wrapper{
