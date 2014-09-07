@@ -184,6 +184,8 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 #header-wrapper{
 	width: 100%;
 	margin: 0 auto;
+	padding-bottom: 3em;
+	border-bottom: 5px solid black;
 }
 
 #logo{
@@ -195,7 +197,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	width: 100%;
 	margin: 0 auto;
 	display: block;
-	border-bottom: 5px solid black;
 }
 
 #content-wrapper{
