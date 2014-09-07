@@ -206,7 +206,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 
 #footer-wrapper{
 	display: block;
-	width: 80%;
+	width: 100%;
 	margin: 0 auto;
 	padding: 1em 0.5em 0em 0.5em;
 }
