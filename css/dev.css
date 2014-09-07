@@ -48,7 +48,7 @@ This CSS sheet is for http://dis-orientation.info
 }
 .NormalCharacterStyle7
 {
-	font-family : DOCK11 Heavy;
+	font-family : 'DOCK11-Heavy';
 	font-size : 20px;
 	color : #000000;
 	color : rgb(0, 0, 0);
@@ -262,8 +262,9 @@ NAVIGATION BAR:
 */
 
 #header ul{
-	font-face
-	font-size: larger;
+	font-family : 'DOCK11-Heavy';
+	font-size : 20px;
+	color : #000000;
 	margin: 0;
 	padding: 0;
 	list-style: none;
