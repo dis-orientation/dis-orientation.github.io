@@ -3,7 +3,7 @@ title: Dis-Orientation Collective
 layout: dev
 ---
 
-## Sandbox
+## It's time to un-learn and dis-orient.
 
 This page only exists for development purposes. In particular, it exists for testing different styling and layouts for the `dis-orientation.info` website. It makes use of the file `dev.css` rather than `main.css`.
 
