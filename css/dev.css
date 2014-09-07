@@ -58,6 +58,14 @@ h1, h2, h3, h4, h5, h6{
 	font-family: 'Oswald', sans-serif;
 }
 
+h1{
+	font-size: 38pt;
+}
+
+.permanent-marker{
+	font-family: 'Permanent Marker', cursive;
+}
+
 a, a:hover{
 	color: #E82C0C;
 	text-decoration: none;
