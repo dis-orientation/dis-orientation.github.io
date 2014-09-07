@@ -3,32 +3,131 @@ PURPOSE:
 ----------------------------------------------------
 This CSS sheet is for http://dis-orientation.info
 ----------------------------------------------------
+*/
 
-UPDATES AND CHANGELOG:
-----------------------------------------------------
-- 2014-06-03
-	- Consistent spacing
-	- Updated license
-	- Fixed id vs class issue for 
-- 2014-01-19
-	- Added styling for Markdown tutorial
-- 2013-11-19
-	- Added styling for blogs
-- 2013-11-08
-	- Inception
-----------------------------------------------------
-
-RIGHTS:
-----------------------------------------------------
-This CSS style sheet is placed under the Creative Commons 
-Attribution-NonCommercial-ShareAlike 
-4.0 International License:
-http://creativecommons.org/licenses/by-nc-sa/4.0/
-
-Modify and use as you wish, though not for commercial purposes.
-Attribute and share under a similar license!
+/* FONT STUFF
 ----------------------------------------------------
 */
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 2878670, 2014-09-07T12:03:19-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: DOCK11 by artill
+ * URL: http://www.myfonts.com/fonts/artill-typs/dock11/heavy/
+ * Copyright: Copyright (c) 2011 by Lukas Bischoff. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2878670
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2becce");
+
+@font-face {font-family: 'DOCK11-Heavy';src: url('webfonts/2BECCE_0_0.eot');src: url('webfonts/2BECCE_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2BECCE_0_0.woff') format('woff'),url('webfonts/2BECCE_0_0.ttf') format('truetype');}
+
+/* STUFF */
+
+@charset "utf-8";
+	.x3C_BackgroundImage_x3E_
+{
+	background-image : url(x3C_BackgroundImage_x3E_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+}
+.NormalCharacterStyle7
+{
+	font-family : DOCK11 Heavy;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle6
+{
+	font-family : DOCK11 Heavy;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle5
+{
+	font-family : DOCK11 Heavy;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle4
+{
+	font-family : DOCK11 Heavy;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle3
+{
+	font-family : DOCK11 Heavy;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle2
+{
+	font-family : DOCK11 Heavy;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.x3C_HeaderRule_x3E_
+{
+	background : #000000;
+	background : rgba(0, 0, 0, 1);
+	position : absolute ;
+	left : -41px;
+	top : 114px;
+}
+.NormalCharacterStyle
+{
+	font-family : Myriad Pro;
+	font-size : 11px;
+	line-height : 11px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.x3C_SideBar_x3E_
+{
+	background-image : url(x3C_SideBar_x3E_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 617px;
+	top : 140px;
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 37px;
+	line-height : 33px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.x3C_HeaderBar_x3E_
+{
+	background-image : url(x3C_HeaderBar_x3E_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : -11px;
+	top : 9px;
+}
 
 
 /*
