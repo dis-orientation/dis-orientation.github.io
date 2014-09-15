@@ -1,7 +1,7 @@
 ---
 layout: post-default
 title: dis-orientation.info launches!
-author: The collective
+author: Dis-Orientation Collective
 categories:
 - dis-orientation
 - un-learning
