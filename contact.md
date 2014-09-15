@@ -7,7 +7,7 @@ layout: default
 
 To contact the Dis-Orientation Collective, please email us at:
 
-<img src="/images/contact.gif" width="400" alt="contact" style="display: block;margin-left: auto;margin-right: auto;background-color:#EEE9CA" /> 
+<img src="/images/contact.gif" width="400" alt="contact" style="display: block;margin-left: auto;margin-right: auto; /> 
 
 We're also on Twitter at [`@dis_orientation`][Twitter] and [Facebook][Facebook].
 
