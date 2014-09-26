@@ -59,12 +59,12 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1{
-	font-size: 25pt;
+	font-size: 16pt;
 }
 
 .permanent-marker{
 	font-family: 'Permanent Marker', cursive;
-	font-size: 32pt;
+	font-size: 21pt;
 }
 
 a, a:hover{
@@ -133,7 +133,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 #split-right-content-wrapper{
 	float: right;
 	width: 350px;
-	background-color: black;
 	padding-bottom: 500em;
 	margin-bottom: -500em;
 }
@@ -251,37 +250,35 @@ STYLING FOR BLOG POSTS ON MAIN BLOG PAGE:
 ----------------------------------------------------
 */
 
+#dis-orientation-collective-blog-title{
+	text-align: center;
+	font-size: 26pt;
+	display: inline;
+}
+
+#blog-title-rule{
+	width: 100%;
+	border-bottom: 5px solid black;
+	margin-bottom: 3em;
+}
+
 .post{
-	margin-bottom: 4%;
-	border-bottom: 0.07em solid #4B4137;
-}
-
-/* Gets rid of border-bottom for last post in blog posts,
-since there is already a border separating content from footer
-*/
-.post-last{
-	margin-bottom: 4%;
-}
-
-.post-excerpt{
-	padding-top: 15px;
-}
-
-.excerpt-link, .excerpt-link:hover{
-	color: #261309;
-	text-decoration: none;
+	margin: 0 1em 0 1em;
 }
 
 .post-title{
-	font-size: large;
-	font-weight: bold;
-	line-height: 1em;
+	font-family: 'Oswald', sans-serif;
+	font-size: x-large;
+}
+
+.post-title a{
+	text-decoration: none;
+	color : #000000;
 }
 
 .date{
-	font-size: small;
-	font-weight: bold;
-	margin-top: 3px;
+	font-size: larger;
+	font-family: 'Permanent Marker', cursive;
 }
 
 /*
