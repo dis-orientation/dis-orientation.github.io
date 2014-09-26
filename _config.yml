@@ -1,7 +1,7 @@
 name: "Dis-Orientation Collective"
 description: "All the things you ought to know about universities"
 
-url: "http://localhost:4000/"
+url: "http://dis-orientation.info/"
 
 markdown: kramdown
 permalink: pretty
