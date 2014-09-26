@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: default-sidebar
 ---
 
 ## About the Dis-Orientation Collective

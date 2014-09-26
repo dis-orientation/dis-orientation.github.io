@@ -1,6 +1,6 @@
 ---
 title: Dis-Orientation Collective Blog
-layout: default
+layout: default-sidebar
 ---
 
 ## Dis-Orientation Collective Blog

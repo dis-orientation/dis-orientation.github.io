@@ -1,6 +1,6 @@
 ---
 title: Getting Involved
-layout: default
+layout: default-sidebar
 ---
 
 ## Get involved with the Dis-Orientation Collective

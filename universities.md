@@ -1,6 +1,6 @@
 ---
 title: Universities
-layout: default
+layout: default-sidebar
 ---
 
 ## Universities

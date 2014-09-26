@@ -1,6 +1,6 @@
 ---
 title: Dis-Orientation Collective
-layout: default
+layout: default-sidebar
 ---
 
 ## Time to un-learn and dis-orient![^1]
