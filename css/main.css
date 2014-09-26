@@ -155,7 +155,7 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 
 #footer p{
 	text-align: center;
-	font-size: 0.45em;
+	font-size: small;
 }
 
 CLASS FOR CLEARFIX:
@@ -279,6 +279,7 @@ STYLING FOR BLOG POSTS ON MAIN BLOG PAGE:
 .date{
 	font-size: larger;
 	font-family: 'Permanent Marker', cursive;
+	color: #E82C0C;
 }
 
 /*
@@ -286,6 +287,21 @@ STYLING FOR INDIVIDUAL BLOG POSTS:
 ----------------------------------------------------
 */
 
-.meta-post{
-	font-family: "Times New Roman", Times, serif;
+#blog-metadata-for-individual-post{
+	width: 100%;
+	border-bottom: 5px solid black;
+	margin-bottom: 1em;
+}
+
+.post-title-individual-post{
+	font-family: 'Oswald', sans-serif;
+	font-size: 32pt;
+	display: inline;
+}
+
+.date-individual-post{
+	font-size: 20pt;
+	font-family: 'Permanent Marker', cursive;
+	color: #E82C0C;
+	display: inline;
 }

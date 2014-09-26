@@ -1,12 +1,21 @@
 {% include header.html %}
 
-<h2>{{ page.title }}</h2>
-<h3>{{ page.date | date: "%B %e, %Y" }}</h3>
-<p class="meta-post"><span style="font-weight:800;">Author</span>: {{ page.author }}</p>
-<p class="meta-post" style="font-size:smaller">
-<span style="font-weight:800;">Categories</span>: {{ page.categories | join: ', ' }} <span style="color:#8E8E8E;font-weight:300;font-size:x-large;vertical-align:middle;">|</span> <span style="font-weight:800;">Tags</span>: {{ page.tags | join: ', ' }}
-</p>
+<div id="split-left-content-wrapper" >
 
-{{ content }}
+	<div id="blog-metadata-for-individual-post">
+	<h2 class="post-title-individual-post">{{ page.title }}</h2>
+	<h3 class="date-individual-post">{{ page.date | date: "%B %e, %Y" }}</h3>
+	</div><!-- END blog-metadata-for-individual-post div-->
+
+<img src="{{ site.url}}css/images/megaphonecircle.png" style="float:left; margin-right: 1em;" /> {{ content }}
+
+</div><!-- END split-left-content-wrapper div-->
+
+<div id="split-right-content-wrapper" >
+<img src="{{ site.url }}/css/images/the-latest.png" />
+<a class="twitter-timeline" href="https://twitter.com/dis_orientation" data-widget-id="515337549854679040">Tweets by @dis_orientation</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div><!-- END split-right-content-wrapper div-->
+
+<div class="clear"><!-- --></div>
 
 {% include footer.html %}
