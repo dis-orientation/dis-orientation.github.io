@@ -3,7 +3,7 @@ title: Contact
 layout: default-sidebar
 ---
 
-## Contact
+## Contact the Dis-Orientation Collective
 
 To contact the Dis-Orientation Collective, please email us at:
 
